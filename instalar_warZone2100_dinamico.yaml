@@ -1,0 +1,27 @@
+---
+- name: Instalar Krita en equipos Ubuntu
+  hosts: "{{ target_host }}"
+  become: true  # Elevaci�n de privilegios
+  become_user: root  # Ejecuci�n como root
+  tasks:
+    - name: Asegurarse de que Snap está instalado
+      ansible.builtin.apt:
+        name: snapd
+        state: present
+        update_cache: yes
+
+    - name: Instalar Warzone 2100 mediante Snap
+      ansible.builtin.shell:
+        cmd: snap install warzone2100
+      register: snap_install
+      changed_when: "'warzone2100' in snap_install.stdout"
+
+    - name: Verificar instalación de Warzone 2100
+      ansible.builtin.command:
+        cmd: snap list warzone2100
+      register: warzone_status
+      failed_when: "'error' in warzone_status.stderr.lower()"
+
+    - name: Confirmar la instalación de Warzone 2100
+      ansible.builtin.debug:
+        msg: "Warzone 2100 se instaló correctamente mediante Snap."

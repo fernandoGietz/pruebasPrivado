@@ -1,0 +1,4487 @@
+E.U. de Estudios Empresariales -Bilbao-:
+  children:
+    elcano-1-1:
+      hosts:
+        U109729:
+          ansible_host: 158.227.76.219
+          ansible_user: vgtic
+        U109730:
+          ansible_host: 158.227.76.148
+          ansible_user: vgtic
+        U109731:
+          ansible_host: 158.227.76.156
+          ansible_user: vgtic
+        U109732:
+          ansible_host: 158.227.76.167
+          ansible_user: vgtic
+        U109733:
+          ansible_host: 158.227.76.168
+          ansible_user: vgtic
+        U109734:
+          ansible_host: 158.227.76.169
+          ansible_user: vgtic
+        U109735:
+          ansible_host: 158.227.76.170
+          ansible_user: vgtic
+        U109736:
+          ansible_host: 158.227.76.172
+          ansible_user: vgtic
+        U109737:
+          ansible_host: 158.227.76.173
+          ansible_user: vgtic
+        U109738:
+          ansible_host: 158.227.76.175
+          ansible_user: vgtic
+        U109739:
+          ansible_host: 158.227.76.176
+          ansible_user: vgtic
+        U109740:
+          ansible_host: 158.227.76.177
+          ansible_user: vgtic
+        U109741:
+          ansible_host: 158.227.76.178
+          ansible_user: vgtic
+        U109742:
+          ansible_host: 158.227.76.185
+          ansible_user: vgtic
+        U109743:
+          ansible_host: 158.227.76.191
+          ansible_user: vgtic
+        U109744:
+          ansible_host: 158.227.76.199
+          ansible_user: vgtic
+        U109745:
+          ansible_host: 158.227.76.200
+          ansible_user: vgtic
+        U109746:
+          ansible_host: 158.227.76.220
+          ansible_user: vgtic
+        U109747:
+          ansible_host: 158.227.76.221
+          ansible_user: vgtic
+        U109748:
+          ansible_host: 158.227.76.222
+          ansible_user: vgtic
+        U109749:
+          ansible_host: 158.227.76.223
+          ansible_user: vgtic
+        U109750:
+          ansible_host: 158.227.76.224
+          ansible_user: vgtic
+        U109751:
+          ansible_host: 158.227.76.225
+          ansible_user: vgtic
+        U109752:
+          ansible_host: 158.227.76.227
+          ansible_user: vgtic
+        U109753:
+          ansible_host: 158.227.76.226
+          ansible_user: vgtic
+    elcano-1-2:
+      hosts:
+        U210525:
+          ansible_host: 158.227.76.250
+          ansible_user: vgtic
+        U210526:
+          ansible_host: 158.227.76.251
+          ansible_user: vgtic
+        U210527:
+          ansible_host: 158.227.76.252
+          ansible_user: vgtic
+        U210532:
+          ansible_host: 158.227.76.253
+          ansible_user: vgtic
+        U210537:
+          ansible_host: 158.227.76.254
+          ansible_user: vgtic
+        U210539:
+          ansible_host: 158.227.76.61
+          ansible_user: vgtic
+        U210541:
+          ansible_host: 158.227.76.62
+          ansible_user: vgtic
+        U210543:
+          ansible_host: 158.227.76.63
+          ansible_user: vgtic
+        U210544:
+          ansible_host: 158.227.76.64
+          ansible_user: vgtic
+        U210545:
+          ansible_host: 158.227.76.69
+          ansible_user: vgtic
+        U210547:
+          ansible_host: 158.227.76.74
+          ansible_user: vgtic
+        U210550:
+          ansible_host: 158.227.76.75
+          ansible_user: vgtic
+        U210551:
+          ansible_host: 158.227.76.76
+          ansible_user: vgtic
+        U210552:
+          ansible_host: 158.227.76.77
+          ansible_user: vgtic
+        U210553:
+          ansible_host: 158.227.76.78
+          ansible_user: vgtic
+        U210554:
+          ansible_host: 158.227.76.107
+          ansible_user: vgtic
+        U210560:
+          ansible_host: 158.227.76.126
+          ansible_user: vgtic
+        U210561:
+          ansible_host: 158.227.76.129
+          ansible_user: vgtic
+        U210562:
+          ansible_host: 158.227.76.130
+          ansible_user: vgtic
+        U210563:
+          ansible_host: 158.227.76.131
+          ansible_user: vgtic
+        U210566:
+          ansible_host: 158.227.76.132
+          ansible_user: vgtic
+        U210568:
+          ansible_host: 158.227.76.133
+          ansible_user: vgtic
+        U210619:
+          ansible_host: 158.227.76.134
+          ansible_user: vgtic
+        U210621:
+          ansible_host: 158.227.76.135
+          ansible_user: vgtic
+        U210623:
+          ansible_host: 158.227.76.136
+          ansible_user: vgtic
+        U210632:
+          ansible_host: 158.227.76.137
+          ansible_user: vgtic
+        U210648:
+          ansible_host: 158.227.76.138
+          ansible_user: vgtic
+        U210650:
+          ansible_host: 158.227.76.139
+          ansible_user: vgtic
+        U210651:
+          ansible_host: 158.227.76.141
+          ansible_user: vgtic
+        U210652:
+          ansible_host: 158.227.76.144
+          ansible_user: vgtic
+        U210654:
+          ansible_host: 158.227.76.145
+          ansible_user: vgtic
+        U210655:
+          ansible_host: 158.227.76.146
+          ansible_user: vgtic
+        U210656:
+          ansible_host: 158.227.76.149
+          ansible_user: vgtic
+        U210657:
+          ansible_host: 158.227.76.150
+          ansible_user: vgtic
+        U210658:
+          ansible_host: 158.227.76.228
+          ansible_user: vgtic
+        U210659:
+          ansible_host: 158.227.76.229
+          ansible_user: vgtic
+        U210662:
+          ansible_host: 158.227.76.230
+          ansible_user: vgtic
+        U210663:
+          ansible_host: 158.227.76.247
+          ansible_user: vgtic
+        U210664:
+          ansible_host: 158.227.76.248
+          ansible_user: vgtic
+        U210665:
+          ansible_host: 158.227.76.249
+          ansible_user: vgtic
+    elcano-2-2:
+      hosts:
+        U113970:
+          ansible_host: 158.227.76.110
+          ansible_user: vgtic
+        U113971:
+          ansible_host: 158.227.76.140
+          ansible_user: vgtic
+        U113972:
+          ansible_host: 158.227.76.142
+          ansible_user: vgtic
+        U113973:
+          ansible_host: 158.227.76.143
+          ansible_user: vgtic
+        U113974:
+          ansible_host: 158.227.76.203
+          ansible_user: vgtic
+        U113975:
+          ansible_host: 158.227.76.204
+          ansible_user: vgtic
+        U113976:
+          ansible_host: 158.227.76.210
+          ansible_user: vgtic
+        U113977:
+          ansible_host: 158.227.76.97
+          ansible_user: vgtic
+        U113978:
+          ansible_host: 158.227.76.100
+          ansible_user: vgtic
+        U113979:
+          ansible_host: 158.227.76.113
+          ansible_user: vgtic
+        U113980:
+          ansible_host: 158.227.76.114
+          ansible_user: vgtic
+        U113981:
+          ansible_host: 158.227.76.115
+          ansible_user: vgtic
+        U113982:
+          ansible_host: 158.227.76.116
+          ansible_user: vgtic
+        U113983:
+          ansible_host: 158.227.76.117
+          ansible_user: vgtic
+        U113984:
+          ansible_host: 158.227.76.118
+          ansible_user: vgtic
+        U113985:
+          ansible_host: 158.227.76.119
+          ansible_user: vgtic
+        U113986:
+          ansible_host: 158.227.76.120
+          ansible_user: vgtic
+        U113987:
+          ansible_host: 158.227.76.82
+          ansible_user: vgtic
+        U113988:
+          ansible_host: 158.227.76.83
+          ansible_user: vgtic
+        U113989:
+          ansible_host: 158.227.76.84
+          ansible_user: vgtic
+        U113990:
+          ansible_host: 158.227.76.85
+          ansible_user: vgtic
+        U113991:
+          ansible_host: 158.227.76.86
+          ansible_user: vgtic
+        U113992:
+          ansible_host: 158.227.76.87
+          ansible_user: vgtic
+        U113993:
+          ansible_host: 158.227.76.88
+          ansible_user: vgtic
+        U113994:
+          ansible_host: 158.227.76.89
+          ansible_user: vgtic
+        U113995:
+          ansible_host: 158.227.76.90
+          ansible_user: vgtic
+        U113996:
+          ansible_host: 158.227.76.91
+          ansible_user: vgtic
+        U113997:
+          ansible_host: 158.227.76.92
+          ansible_user: vgtic
+        U113998:
+          ansible_host: 158.227.76.93
+          ansible_user: vgtic
+        U113999:
+          ansible_host: 158.227.76.94
+          ansible_user: vgtic
+        U114000:
+          ansible_host: 158.227.76.95
+          ansible_user: vgtic
+        U114001:
+          ansible_host: 158.227.76.96
+          ansible_user: vgtic
+        U114002:
+          ansible_host: 158.227.76.105
+          ansible_user: vgtic
+        U114003:
+          ansible_host: 158.227.76.106
+          ansible_user: vgtic
+        U114004:
+          ansible_host: 158.227.76.112
+          ansible_user: vgtic
+        U114005:
+          ansible_host: 158.227.76.109
+          ansible_user: vgtic
+    elcano-pasillo-1-2:
+      hosts:
+        U030242:
+          ansible_host: 158.227.76.10
+          ansible_user: vgtic
+        U030243:
+          ansible_host: 158.227.76.11
+          ansible_user: vgtic
+        U030244:
+          ansible_host: 158.227.76.12
+          ansible_user: vgtic
+        U030245:
+          ansible_host: 158.227.76.13
+          ansible_user: vgtic
+        U030246:
+          ansible_host: 158.227.76.14
+          ansible_user: vgtic
+        U030247:
+          ansible_host: 158.227.76.15
+          ansible_user: vgtic
+        U030248:
+          ansible_host: 158.227.76.16
+          ansible_user: vgtic
+        U030249:
+          ansible_host: 158.227.76.17
+          ansible_user: vgtic
+        U030250:
+          ansible_host: 158.227.76.18
+          ansible_user: vgtic
+        U030252:
+          ansible_host: 158.227.76.20
+          ansible_user: vgtic
+        U030253:
+          ansible_host: 158.227.76.22
+          ansible_user: vgtic
+        U030254:
+          ansible_host: 158.227.76.31
+          ansible_user: vgtic
+        U030255:
+          ansible_host: 158.227.76.32
+          ansible_user: vgtic
+        U030256:
+          ansible_host: 158.227.76.34
+          ansible_user: vgtic
+        U030257:
+          ansible_host: 158.227.76.35
+          ansible_user: vgtic
+        U030258:
+          ansible_host: 158.227.76.36
+          ansible_user: vgtic
+        U030259:
+          ansible_host: 158.227.76.50
+          ansible_user: vgtic
+        U030260:
+          ansible_host: 158.227.76.51
+          ansible_user: vgtic
+        U030261:
+          ansible_host: 158.227.76.79
+          ansible_user: vgtic
+    elcano-pasillosotano:
+      hosts:
+        U030262:
+          ansible_host: 158.227.76.80
+          ansible_user: vgtic
+        U030263:
+          ansible_host: 158.227.76.81
+          ansible_user: vgtic
+        U030264:
+          ansible_host: 158.227.76.108
+          ansible_user: vgtic
+        U030265:
+          ansible_host: 158.227.76.151
+          ansible_user: vgtic
+        U030266:
+          ansible_host: 158.227.76.152
+          ansible_user: vgtic
+        U030267:
+          ansible_host: 158.227.76.153
+          ansible_user: vgtic
+        U030268:
+          ansible_host: 158.227.76.154
+          ansible_user: vgtic
+        U030269:
+          ansible_host: 158.227.76.155
+          ansible_user: vgtic
+        U030270:
+          ansible_host: 158.227.76.157
+          ansible_user: vgtic
+        U030271:
+          ansible_host: 158.227.76.158
+          ansible_user: vgtic
+        U030272:
+          ansible_host: 158.227.76.159
+          ansible_user: vgtic
+        U030273:
+          ansible_host: 158.227.76.160
+          ansible_user: vgtic
+        U030274:
+          ansible_host: 158.227.76.161
+          ansible_user: vgtic
+        U030275:
+          ansible_host: 158.227.76.162
+          ansible_user: vgtic
+        U030276:
+          ansible_host: 158.227.76.163
+          ansible_user: vgtic
+E.U. de Ingenieria Tecnica Industrial -Bilbao-:
+  children:
+    aula-bz-eib2-lsi-P6I7L:
+      hosts:
+        U019304:
+          ansible_host: 10.227.77.84
+          ansible_user: vgtic
+        U019306:
+          ansible_host: 10.227.77.83
+          ansible_user: vgtic
+        U019310:
+          ansible_host: 10.227.77.81
+          ansible_user: vgtic
+        U019320:
+          ansible_host: 10.227.77.80
+          ansible_user: vgtic
+        U019322:
+          ansible_host: 10.227.77.79
+          ansible_user: vgtic
+        U019323:
+          ansible_host: 10.227.77.78
+          ansible_user: vgtic
+        U019324:
+          ansible_host: 10.227.77.77
+          ansible_user: vgtic
+        U019325:
+          ansible_host: 10.227.77.76
+          ansible_user: vgtic
+        U019327:
+          ansible_host: 10.227.77.75
+          ansible_user: vgtic
+        U019330:
+          ansible_host: 10.227.76.157
+          ansible_user: vgtic
+        U019331:
+          ansible_host: 10.227.76.178
+          ansible_user: vgtic
+        U019332:
+          ansible_host: 10.227.76.175
+          ansible_user: vgtic
+        U019336:
+          ansible_host: 10.227.76.8
+          ansible_user: vgtic
+        U019337:
+          ansible_host: 10.227.76.168
+          ansible_user: vgtic
+        U019338:
+          ansible_host: 10.227.76.170
+          ansible_user: vgtic
+        U019341:
+          ansible_host: 10.227.77.86
+          ansible_user: vgtic
+        U019342:
+          ansible_host: 10.227.77.87
+          ansible_user: vgtic
+        U019347:
+          ansible_host: 10.227.77.88
+          ansible_user: vgtic
+        U019351:
+          ansible_host: 10.227.77.89
+          ansible_user: vgtic
+        U019352:
+          ansible_host: 10.227.76.172
+          ansible_user: vgtic
+        U019353:
+          ansible_host: 10.227.76.174
+          ansible_user: vgtic
+        U019354:
+          ansible_host: 10.227.77.92
+          ansible_user: vgtic
+        U019355:
+          ansible_host: 10.227.77.91
+          ansible_user: vgtic
+        U019356:
+          ansible_host: 10.227.77.90
+          ansible_user: vgtic
+        U019357:
+          ansible_host: 10.227.77.85
+          ansible_user: vgtic
+        U019412:
+          ansible_host: 10.227.77.150
+          ansible_user: vgtic
+    peritos-cpd:
+      hosts:
+        U019308:
+          ansible_host: 10.227.77.82
+          ansible_user: vgtic
+        U100993:
+          ansible_host: 158.227.71.193
+          ansible_user: vgtic
+        U104115:
+          ansible_host: 10.227.76.10
+          ansible_user: vgtic
+E.U. de Ingenieria de Vitoria-Gasteiz:
+  children:
+    eui-aulavp11:
+      hosts:
+        U033311:
+          ansible_host: 158.227.216.82
+          ansible_user: vgtic
+        U033312:
+          ansible_host: 158.227.216.83
+          ansible_user: vgtic
+        U033313:
+          ansible_host: 158.227.216.84
+          ansible_user: vgtic
+        U033314:
+          ansible_host: 158.227.216.85
+          ansible_user: vgtic
+        U033315:
+          ansible_host: 158.227.216.86
+          ansible_user: vgtic
+        U033316:
+          ansible_host: 158.227.216.87
+          ansible_user: vgtic
+        U033317:
+          ansible_host: 158.227.216.88
+          ansible_user: vgtic
+        U033318:
+          ansible_host: 158.227.216.89
+          ansible_user: vgtic
+        U033319:
+          ansible_host: 158.227.216.90
+          ansible_user: vgtic
+        U033320:
+          ansible_host: 158.227.216.91
+          ansible_user: vgtic
+        U033321:
+          ansible_host: 158.227.216.92
+          ansible_user: vgtic
+        U033322:
+          ansible_host: 158.227.216.93
+          ansible_user: vgtic
+        U033323:
+          ansible_host: 158.227.216.94
+          ansible_user: vgtic
+        U033325:
+          ansible_host: 158.227.216.96
+          ansible_user: vgtic
+        U033326:
+          ansible_host: 158.227.216.112
+          ansible_user: vgtic
+        U033327:
+          ansible_host: 158.227.216.113
+          ansible_user: vgtic
+        U033328:
+          ansible_host: 158.227.216.114
+          ansible_user: vgtic
+        U033329:
+          ansible_host: 158.227.216.115
+          ansible_user: vgtic
+        U033330:
+          ansible_host: 158.227.216.116
+          ansible_user: vgtic
+        U033331:
+          ansible_host: 158.227.216.117
+          ansible_user: vgtic
+        U033332:
+          ansible_host: 158.227.216.118
+          ansible_user: vgtic
+        U033333:
+          ansible_host: 158.227.216.119
+          ansible_user: vgtic
+        U033334:
+          ansible_host: 158.227.216.120
+          ansible_user: vgtic
+        U033335:
+          ansible_host: 158.227.216.121
+          ansible_user: vgtic
+        U033336:
+          ansible_host: 158.227.216.122
+          ansible_user: vgtic
+        U033337:
+          ansible_host: 158.227.216.123
+          ansible_user: vgtic
+        U033338:
+          ansible_host: 158.227.216.124
+          ansible_user: vgtic
+        U033339:
+          ansible_host: 158.227.216.125
+          ansible_user: vgtic
+        U033340:
+          ansible_host: 158.227.216.126
+          ansible_user: vgtic
+        U033341:
+          ansible_host: 158.227.216.127
+          ansible_user: vgtic
+    eui-aulavp12:
+      hosts:
+        U109350:
+          ansible_host: 158.227.216.43
+          ansible_user: vgtic
+        U109351:
+          ansible_host: 158.227.216.44
+          ansible_user: vgtic
+        U109352:
+          ansible_host: 158.227.216.45
+          ansible_user: vgtic
+        U109353:
+          ansible_host: 158.227.216.46
+          ansible_user: vgtic
+        U109354:
+          ansible_host: 158.227.216.47
+          ansible_user: vgtic
+        U109355:
+          ansible_host: 158.227.216.48
+          ansible_user: vgtic
+        U109356:
+          ansible_host: 158.227.216.49
+          ansible_user: vgtic
+        U109357:
+          ansible_host: 158.227.216.67
+          ansible_user: vgtic
+        U109358:
+          ansible_host: 158.227.216.68
+          ansible_user: vgtic
+        U110013:
+          ansible_host: 158.227.216.26
+          ansible_user: vgtic
+        U110014:
+          ansible_host: 158.227.216.27
+          ansible_user: vgtic
+        U110015:
+          ansible_host: 158.227.216.28
+          ansible_user: vgtic
+        U110016:
+          ansible_host: 158.227.216.29
+          ansible_user: vgtic
+        U110017:
+          ansible_host: 158.227.216.30
+          ansible_user: vgtic
+        U110018:
+          ansible_host: 158.227.216.31
+          ansible_user: vgtic
+        U110019:
+          ansible_host: 158.227.216.32
+          ansible_user: vgtic
+        U110020:
+          ansible_host: 158.227.216.33
+          ansible_user: vgtic
+        U110021:
+          ansible_host: 158.227.216.34
+          ansible_user: vgtic
+        U110022:
+          ansible_host: 158.227.216.35
+          ansible_user: vgtic
+        U110023:
+          ansible_host: 158.227.216.36
+          ansible_user: vgtic
+        U110024:
+          ansible_host: 158.227.216.37
+          ansible_user: vgtic
+        U110025:
+          ansible_host: 158.227.216.38
+          ansible_user: vgtic
+        U110026:
+          ansible_host: 158.227.216.39
+          ansible_user: vgtic
+        U110027:
+          ansible_host: 158.227.216.40
+          ansible_user: vgtic
+        U110028:
+          ansible_host: 158.227.216.41
+          ansible_user: vgtic
+    eui-aulavp13:
+      hosts:
+        U231764:
+          ansible_host: 158.227.216.192
+          ansible_user: vgtic
+        U231765:
+          ansible_host: 158.227.216.193
+          ansible_user: vgtic
+        U231766:
+          ansible_host: 158.227.216.194
+          ansible_user: vgtic
+        U231767:
+          ansible_host: 158.227.216.195
+          ansible_user: vgtic
+        U231768:
+          ansible_host: 158.227.216.196
+          ansible_user: vgtic
+        U231769:
+          ansible_host: 158.227.216.197
+          ansible_user: vgtic
+        U231770:
+          ansible_host: 158.227.216.198
+          ansible_user: vgtic
+        U231772:
+          ansible_host: 158.227.216.200
+          ansible_user: vgtic
+        U231773:
+          ansible_host: 158.227.216.201
+          ansible_user: vgtic
+        U231774:
+          ansible_host: 158.227.216.202
+          ansible_user: vgtic
+        U231775:
+          ansible_host: 158.227.216.203
+          ansible_user: vgtic
+        U231776:
+          ansible_host: 158.227.216.204
+          ansible_user: vgtic
+        U231777:
+          ansible_host: 158.227.216.205
+          ansible_user: vgtic
+        U231778:
+          ansible_host: 158.227.216.206
+          ansible_user: vgtic
+        U231779:
+          ansible_host: 158.227.216.207
+          ansible_user: vgtic
+        U231780:
+          ansible_host: 158.227.216.208
+          ansible_user: vgtic
+        U231781:
+          ansible_host: 158.227.216.209
+          ansible_user: vgtic
+        U231782:
+          ansible_host: 158.227.216.210
+          ansible_user: vgtic
+        U231783:
+          ansible_host: 158.227.216.211
+          ansible_user: vgtic
+        U231784:
+          ansible_host: 158.227.216.212
+          ansible_user: vgtic
+        U231785:
+          ansible_host: 158.227.216.213
+          ansible_user: vgtic
+        U231786:
+          ansible_host: 158.227.216.214
+          ansible_user: vgtic
+        U231787:
+          ansible_host: 158.227.216.215
+          ansible_user: vgtic
+        U231788:
+          ansible_host: 158.227.216.216
+          ansible_user: vgtic
+        U231789:
+          ansible_host: 158.227.216.217
+          ansible_user: vgtic
+        U231790:
+          ansible_host: 158.227.216.218
+          ansible_user: vgtic
+        U231791:
+          ansible_host: 158.227.216.219
+          ansible_user: vgtic
+        u231771:
+          ansible_host: 158.227.216.199
+          ansible_user: vgtic
+Escuela de Ingeniería de Bilbao:
+  children:
+    aula-bz-eib2-electronica-P8i7L:
+      hosts:
+        U031247:
+          ansible_host: 10.120.88.236
+          ansible_user: vgtic
+        U031248:
+          ansible_host: 10.120.88.237
+          ansible_user: vgtic
+Facultad de Ciencia y Tecnología:
+  children:
+    aula-bz-ciencias-laboratorio023:
+      hosts:
+        U025929:
+          ansible_host: 158.227.24.68
+          ansible_user: vgtic
+        U025937:
+          ansible_host: 158.227.24.69
+          ansible_user: vgtic
+        U025942:
+          ansible_host: 158.227.24.148
+          ansible_user: vgtic
+        U025943:
+          ansible_host: 158.227.24.149
+          ansible_user: vgtic
+        U115992:
+          ansible_host: 158.227.24.150
+          ansible_user: vgtic
+        U115996:
+          ansible_host: 158.227.24.151
+          ansible_user: vgtic
+        U115997:
+          ansible_host: 158.227.24.152
+          ansible_user: vgtic
+        U115998:
+          ansible_host: 158.227.24.153
+          ansible_user: vgtic
+        U115999:
+          ansible_host: 158.227.24.154
+          ansible_user: vgtic
+        U116000:
+          ansible_host: 158.227.24.155
+          ansible_user: vgtic
+        U116001:
+          ansible_host: 158.227.24.156
+          ansible_user: vgtic
+        U116002:
+          ansible_host: 158.227.24.157
+          ansible_user: vgtic
+        U116003:
+          ansible_host: 158.227.24.158
+          ansible_user: vgtic
+        U210151:
+          ansible_host: 158.227.24.58
+          ansible_user: vgtic
+        U210158:
+          ansible_host: 158.227.24.53
+          ansible_user: vgtic
+        U210167:
+          ansible_host: 158.227.24.56
+          ansible_user: vgtic
+        U210169:
+          ansible_host: 158.227.24.54
+          ansible_user: vgtic
+        U210177:
+          ansible_host: 158.227.24.52
+          ansible_user: vgtic
+        U210180:
+          ansible_host: 158.227.24.57
+          ansible_user: vgtic
+        U210183:
+          ansible_host: 158.227.24.51
+          ansible_user: vgtic
+        U210194:
+          ansible_host: 158.227.24.55
+          ansible_user: vgtic
+    ciencias-0-11:
+      hosts:
+        U106917:
+          ansible_host: 10.227.29.88
+          ansible_user: vgtic
+        U106918:
+          ansible_host: 10.227.29.90
+          ansible_user: vgtic
+        U106931:
+          ansible_host: 10.227.28.222
+          ansible_user: vgtic
+        U106995:
+          ansible_host: 10.227.29.87
+          ansible_user: vgtic
+        U106999:
+          ansible_host: 10.227.29.89
+          ansible_user: vgtic
+        U107101:
+          ansible_host: 10.227.29.91
+          ansible_user: vgtic
+    ciencias-0-17:
+      hosts:
+        U106911:
+          ansible_host: 10.227.29.94
+          ansible_user: vgtic
+        U106915:
+          ansible_host: 10.227.28.190
+          ansible_user: vgtic
+        U106916:
+          ansible_host: 10.227.29.93
+          ansible_user: vgtic
+        U106925:
+          ansible_host: 10.227.29.96
+          ansible_user: vgtic
+        U107100:
+          ansible_host: 10.227.28.189
+          ansible_user: vgtic
+        U107102:
+          ansible_host: 10.227.28.187
+          ansible_user: vgtic
+        U107103:
+          ansible_host: 10.227.28.194
+          ansible_user: vgtic
+        U107104:
+          ansible_host: 10.227.28.197
+          ansible_user: vgtic
+        U107107:
+          ansible_host: 10.227.29.95
+          ansible_user: vgtic
+        U107108:
+          ansible_host: 10.227.29.97
+          ansible_user: vgtic
+        U107109:
+          ansible_host: 10.227.29.98
+          ansible_user: vgtic
+        U107272:
+          ansible_host: 10.227.29.92
+          ansible_user: vgtic
+    ciencias-clase:
+      hosts:
+        U210223:
+          ansible_host: 10.227.28.81
+          ansible_user: vgtic
+        U210258:
+          ansible_host: 10.227.28.82
+          ansible_user: vgtic
+        U210264:
+          ansible_host: 10.227.28.83
+          ansible_user: vgtic
+        U210311:
+          ansible_host: 10.227.28.84
+          ansible_user: vgtic
+        U210312:
+          ansible_host: 10.227.28.85
+          ansible_user: vgtic
+        U210313:
+          ansible_host: 10.227.28.86
+          ansible_user: vgtic
+        U210314:
+          ansible_host: 10.227.28.142
+          ansible_user: vgtic
+        U210315:
+          ansible_host: 10.227.28.143
+          ansible_user: vgtic
+        U210316:
+          ansible_host: 10.227.28.144
+          ansible_user: vgtic
+        U210317:
+          ansible_host: 10.227.28.146
+          ansible_user: vgtic
+        U210318:
+          ansible_host: 10.227.28.147
+          ansible_user: vgtic
+        U210319:
+          ansible_host: 10.227.28.148
+          ansible_user: vgtic
+        U210320:
+          ansible_host: 10.227.28.149
+          ansible_user: vgtic
+        U210321:
+          ansible_host: 10.227.28.151
+          ansible_user: vgtic
+        U210322:
+          ansible_host: 10.227.28.153
+          ansible_user: vgtic
+        U210323:
+          ansible_host: 10.227.28.154
+          ansible_user: vgtic
+        U210324:
+          ansible_host: 10.227.28.155
+          ansible_user: vgtic
+        U210325:
+          ansible_host: 10.227.28.156
+          ansible_user: vgtic
+        U210327:
+          ansible_host: 10.227.28.158
+          ansible_user: vgtic
+        U210328:
+          ansible_host: 10.227.28.159
+          ansible_user: vgtic
+        U210332:
+          ansible_host: 10.227.28.160
+          ansible_user: vgtic
+        U210333:
+          ansible_host: 10.227.28.161
+          ansible_user: vgtic
+        U210334:
+          ansible_host: 10.227.28.162
+          ansible_user: vgtic
+        U210335:
+          ansible_host: 10.227.28.163
+          ansible_user: vgtic
+        U210336:
+          ansible_host: 10.227.28.164
+          ansible_user: vgtic
+        U210337:
+          ansible_host: 10.227.28.165
+          ansible_user: vgtic
+        U210338:
+          ansible_host: 10.227.28.166
+          ansible_user: vgtic
+        U210339:
+          ansible_host: 10.227.28.167
+          ansible_user: vgtic
+        U210340:
+          ansible_host: 10.227.28.168
+          ansible_user: vgtic
+        U210341:
+          ansible_host: 10.227.29.74
+          ansible_user: vgtic
+        U210342:
+          ansible_host: 10.227.28.169
+          ansible_user: vgtic
+        U210343:
+          ansible_host: 10.227.28.170
+          ansible_user: vgtic
+        U210344:
+          ansible_host: 10.227.28.171
+          ansible_user: vgtic
+        U210345:
+          ansible_host: 10.227.28.172
+          ansible_user: vgtic
+        U210346:
+          ansible_host: 10.227.28.173
+          ansible_user: vgtic
+        U210347:
+          ansible_host: 10.227.28.174
+          ansible_user: vgtic
+        U210348:
+          ansible_host: 10.227.29.77
+          ansible_user: vgtic
+        U210349:
+          ansible_host: 10.227.28.176
+          ansible_user: vgtic
+        U210350:
+          ansible_host: 10.227.29.62
+          ansible_user: vgtic
+        U210351:
+          ansible_host: 10.227.29.63
+          ansible_user: vgtic
+        U210352:
+          ansible_host: 10.227.29.64
+          ansible_user: vgtic
+        U210353:
+          ansible_host: 10.227.29.65
+          ansible_user: vgtic
+        U210354:
+          ansible_host: 10.227.29.66
+          ansible_user: vgtic
+        U210355:
+          ansible_host: 10.227.29.67
+          ansible_user: vgtic
+        U210356:
+          ansible_host: 10.227.29.68
+          ansible_user: vgtic
+        U210357:
+          ansible_host: 10.227.29.69
+          ansible_user: vgtic
+        U210358:
+          ansible_host: 10.227.29.70
+          ansible_user: vgtic
+        U210359:
+          ansible_host: 10.227.29.71
+          ansible_user: vgtic
+        U210360:
+          ansible_host: 10.227.29.72
+          ansible_user: vgtic
+        U210361:
+          ansible_host: 10.227.29.73
+          ansible_user: vgtic
+        U210980:
+          ansible_host: 10.227.29.81
+          ansible_user: vgtic
+        U210981:
+          ansible_host: 10.227.29.79
+          ansible_user: vgtic
+        U210986:
+          ansible_host: 10.227.29.85
+          ansible_user: vgtic
+        U210993:
+          ansible_host: 10.227.29.82
+          ansible_user: vgtic
+        U211000:
+          ansible_host: 10.227.29.83
+          ansible_user: vgtic
+        U211001:
+          ansible_host: 10.227.29.84
+          ansible_user: vgtic
+        U211106:
+          ansible_host: 10.227.29.75
+          ansible_user: vgtic
+        U211116:
+          ansible_host: 10.227.29.76
+          ansible_user: vgtic
+        U211723:
+          ansible_host: 10.227.29.78
+          ansible_user: vgtic
+        U211724:
+          ansible_host: 10.227.28.175
+          ansible_user: vgtic
+        U211725:
+          ansible_host: 158.227.48.81
+          ansible_user: vgtic
+    ciencias-grandsalle:
+      hosts:
+        U115979:
+          ansible_host: 10.227.28.122
+          ansible_user: vgtic
+        U115980:
+          ansible_host: 10.227.28.123
+          ansible_user: vgtic
+        U115981:
+          ansible_host: 10.227.28.124
+          ansible_user: vgtic
+        U115982:
+          ansible_host: 10.227.28.125
+          ansible_user: vgtic
+        U115983:
+          ansible_host: 10.227.28.126
+          ansible_user: vgtic
+        U115984:
+          ansible_host: 10.227.28.127
+          ansible_user: vgtic
+        U115985:
+          ansible_host: 10.227.28.128
+          ansible_user: vgtic
+        U115986:
+          ansible_host: 10.227.28.129
+          ansible_user: vgtic
+        U115987:
+          ansible_host: 10.227.28.157
+          ansible_user: vgtic
+        U115988:
+          ansible_host: 10.227.28.199
+          ansible_user: vgtic
+        U115989:
+          ansible_host: 10.227.28.200
+          ansible_user: vgtic
+        U115990:
+          ansible_host: 10.227.28.201
+          ansible_user: vgtic
+        U115991:
+          ansible_host: 10.227.28.202
+          ansible_user: vgtic
+    ciencias-informatica1:
+      hosts:
+        U110267:
+          ansible_host: 10.227.28.242
+          ansible_user: vgtic
+        U110268:
+          ansible_host: 10.227.28.243
+          ansible_user: vgtic
+        U110269:
+          ansible_host: 10.227.28.244
+          ansible_user: vgtic
+        U110270:
+          ansible_host: 10.227.28.245
+          ansible_user: vgtic
+        U110271:
+          ansible_host: 10.227.28.246
+          ansible_user: vgtic
+        U110272:
+          ansible_host: 10.227.28.247
+          ansible_user: vgtic
+        U110273:
+          ansible_host: 10.227.28.248
+          ansible_user: vgtic
+        U110274:
+          ansible_host: 10.227.28.249
+          ansible_user: vgtic
+        U110275:
+          ansible_host: 10.227.28.250
+          ansible_user: vgtic
+        U110276:
+          ansible_host: 10.227.28.251
+          ansible_user: vgtic
+        U110277:
+          ansible_host: 10.227.28.252
+          ansible_user: vgtic
+        U110278:
+          ansible_host: 10.227.28.254
+          ansible_user: vgtic
+        U110279:
+          ansible_host: 10.227.29.35
+          ansible_user: vgtic
+        U110280:
+          ansible_host: 10.227.29.37
+          ansible_user: vgtic
+        U110281:
+          ansible_host: 10.227.29.38
+          ansible_user: vgtic
+        U110282:
+          ansible_host: 10.227.29.40
+          ansible_user: vgtic
+        U110283:
+          ansible_host: 10.227.29.52
+          ansible_user: vgtic
+        U110284:
+          ansible_host: 10.227.28.253
+          ansible_user: vgtic
+        U110285:
+          ansible_host: 10.227.29.34
+          ansible_user: vgtic
+        U110286:
+          ansible_host: 10.227.29.36
+          ansible_user: vgtic
+        U110287:
+          ansible_host: 10.227.29.39
+          ansible_user: vgtic
+        U110288:
+          ansible_host: 10.227.29.41
+          ansible_user: vgtic
+        U110289:
+          ansible_host: 10.227.29.46
+          ansible_user: vgtic
+        U110290:
+          ansible_host: 10.227.29.42
+          ansible_user: vgtic
+        U110291:
+          ansible_host: 10.227.29.43
+          ansible_user: vgtic
+        U110292:
+          ansible_host: 10.227.29.44
+          ansible_user: vgtic
+        U110293:
+          ansible_host: 10.227.29.45
+          ansible_user: vgtic
+        U110294:
+          ansible_host: 10.227.29.47
+          ansible_user: vgtic
+        U110295:
+          ansible_host: 10.227.29.48
+          ansible_user: vgtic
+        U110296:
+          ansible_host: 10.227.29.49
+          ansible_user: vgtic
+        U110297:
+          ansible_host: 10.227.29.50
+          ansible_user: vgtic
+        U110298:
+          ansible_host: 10.227.29.51
+          ansible_user: vgtic
+    ciencias-informatica2:
+      hosts:
+        U030515:
+          ansible_host: 158.227.28.117
+          ansible_user: vgtic
+        U030516:
+          ansible_host: 158.227.28.118
+          ansible_user: vgtic
+        U030517:
+          ansible_host: 158.227.28.119
+          ansible_user: vgtic
+        U030518:
+          ansible_host: 158.227.28.120
+          ansible_user: vgtic
+        U030519:
+          ansible_host: 158.227.28.121
+          ansible_user: vgtic
+        U030520:
+          ansible_host: 158.227.28.122
+          ansible_user: vgtic
+        U030521:
+          ansible_host: 158.227.28.123
+          ansible_user: vgtic
+        U030522:
+          ansible_host: 158.227.28.124
+          ansible_user: vgtic
+        U030523:
+          ansible_host: 158.227.28.125
+          ansible_user: vgtic
+        U030524:
+          ansible_host: 158.227.28.126
+          ansible_user: vgtic
+        U030525:
+          ansible_host: 158.227.28.127
+          ansible_user: vgtic
+        U030526:
+          ansible_host: 158.227.28.128
+          ansible_user: vgtic
+        U030527:
+          ansible_host: 158.227.28.129
+          ansible_user: vgtic
+        U030528:
+          ansible_host: 158.227.28.130
+          ansible_user: vgtic
+        U030529:
+          ansible_host: 158.227.28.131
+          ansible_user: vgtic
+        U030530:
+          ansible_host: 158.227.28.132
+          ansible_user: vgtic
+        U030531:
+          ansible_host: 158.227.28.133
+          ansible_user: vgtic
+        U030532:
+          ansible_host: 158.227.28.134
+          ansible_user: vgtic
+        U030533:
+          ansible_host: 158.227.28.135
+          ansible_user: vgtic
+        U030534:
+          ansible_host: 158.227.28.136
+          ansible_user: vgtic
+        U030535:
+          ansible_host: 158.227.28.138
+          ansible_user: vgtic
+        U030536:
+          ansible_host: 158.227.28.139
+          ansible_user: vgtic
+        U030537:
+          ansible_host: 158.227.28.141
+          ansible_user: vgtic
+        U030538:
+          ansible_host: 158.227.28.192
+          ansible_user: vgtic
+        U030539:
+          ansible_host: 158.227.28.197
+          ansible_user: vgtic
+        U030540:
+          ansible_host: 158.227.28.198
+          ansible_user: vgtic
+        U030541:
+          ansible_host: 158.227.28.199
+          ansible_user: vgtic
+        U030542:
+          ansible_host: 158.227.28.205
+          ansible_user: vgtic
+        U030543:
+          ansible_host: 158.227.28.206
+          ansible_user: vgtic
+        U030544:
+          ansible_host: 158.227.28.207
+          ansible_user: vgtic
+        U030545:
+          ansible_host: 158.227.28.208
+          ansible_user: vgtic
+        U030546:
+          ansible_host: 158.227.28.209
+          ansible_user: vgtic
+        U030547:
+          ansible_host: 10.227.28.133
+          ansible_user: vgtic
+        U030548:
+          ansible_host: 10.227.28.134
+          ansible_user: vgtic
+        U030549:
+          ansible_host: 10.227.28.135
+          ansible_user: vgtic
+        U030550:
+          ansible_host: 10.227.28.136
+          ansible_user: vgtic
+        U030551:
+          ansible_host: 10.227.28.137
+          ansible_user: vgtic
+        U030552:
+          ansible_host: 10.227.28.177
+          ansible_user: vgtic
+        U030553:
+          ansible_host: 10.227.28.178
+          ansible_user: vgtic
+        U030554:
+          ansible_host: 10.227.28.179
+          ansible_user: vgtic
+    ciencias-informatica3:
+      hosts:
+        U115932:
+          ansible_host: 10.227.29.114
+          ansible_user: vgtic
+        U115933:
+          ansible_host: 10.227.28.205
+          ansible_user: vgtic
+        U115934:
+          ansible_host: 10.227.29.122
+          ansible_user: vgtic
+        U115935:
+          ansible_host: 10.227.29.113
+          ansible_user: vgtic
+        U115936:
+          ansible_host: 10.227.29.118
+          ansible_user: vgtic
+        U115937:
+          ansible_host: 10.227.29.110
+          ansible_user: vgtic
+        U115938:
+          ansible_host: 10.227.29.107
+          ansible_user: vgtic
+        U115939:
+          ansible_host: 10.227.29.112
+          ansible_user: vgtic
+        U115940:
+          ansible_host: 10.227.29.102
+          ansible_user: vgtic
+        U115941:
+          ansible_host: 10.227.29.120
+          ansible_user: vgtic
+        U115942:
+          ansible_host: 10.227.29.108
+          ansible_user: vgtic
+        U115943:
+          ansible_host: 10.227.29.104
+          ansible_user: vgtic
+        U115944:
+          ansible_host: 10.227.29.103
+          ansible_user: vgtic
+        U115945:
+          ansible_host: 10.227.29.106
+          ansible_user: vgtic
+        U115946:
+          ansible_host: 10.227.29.125
+          ansible_user: vgtic
+        U115947:
+          ansible_host: 10.227.29.119
+          ansible_user: vgtic
+        U115948:
+          ansible_host: 10.227.29.117
+          ansible_user: vgtic
+        U115949:
+          ansible_host: 10.227.28.203
+          ansible_user: vgtic
+        U115950:
+          ansible_host: 10.227.28.204
+          ansible_user: vgtic
+        U115951:
+          ansible_host: 10.227.29.105
+          ansible_user: vgtic
+        U115952:
+          ansible_host: 10.227.29.116
+          ansible_user: vgtic
+        U115953:
+          ansible_host: 10.227.29.121
+          ansible_user: vgtic
+        U115954:
+          ansible_host: 10.227.29.99
+          ansible_user: vgtic
+        U115955:
+          ansible_host: 10.227.28.241
+          ansible_user: vgtic
+        U115956:
+          ansible_host: 10.227.29.109
+          ansible_user: vgtic
+        U115957:
+          ansible_host: 10.227.29.111
+          ansible_user: vgtic
+        U115958:
+          ansible_host: 10.227.29.101
+          ansible_user: vgtic
+        U115959:
+          ansible_host: 10.227.29.115
+          ansible_user: vgtic
+        U115960:
+          ansible_host: 10.227.29.123
+          ansible_user: vgtic
+        U115961:
+          ansible_host: 10.227.29.100
+          ansible_user: vgtic
+        U115962:
+          ansible_host: 10.227.28.228
+          ansible_user: vgtic
+        U115963:
+          ansible_host: 10.227.29.124
+          ansible_user: vgtic
+    ciencias-informatica4:
+      hosts:
+        U230283:
+          ansible_host: 158.227.28.11
+          ansible_user: vgtic
+        U230284:
+          ansible_host: 158.227.28.12
+          ansible_user: vgtic
+        U230285:
+          ansible_host: 158.227.28.13
+          ansible_user: vgtic
+        U230286:
+          ansible_host: 158.227.28.14
+          ansible_user: vgtic
+        U230287:
+          ansible_host: 158.227.28.15
+          ansible_user: vgtic
+        U230288:
+          ansible_host: 158.227.28.16
+          ansible_user: vgtic
+        U230289:
+          ansible_host: 158.227.28.17
+          ansible_user: vgtic
+        U230290:
+          ansible_host: 158.227.28.18
+          ansible_user: vgtic
+        U230291:
+          ansible_host: 158.227.28.19
+          ansible_user: vgtic
+        U230292:
+          ansible_host: 158.227.28.20
+          ansible_user: vgtic
+        U230293:
+          ansible_host: 158.227.28.21
+          ansible_user: vgtic
+        U230294:
+          ansible_host: 158.227.28.22
+          ansible_user: vgtic
+        U230295:
+          ansible_host: 158.227.28.23
+          ansible_user: vgtic
+        U230296:
+          ansible_host: 158.227.28.24
+          ansible_user: vgtic
+        U230297:
+          ansible_host: 158.227.28.25
+          ansible_user: vgtic
+        U230298:
+          ansible_host: 158.227.28.26
+          ansible_user: vgtic
+        U230299:
+          ansible_host: 158.227.28.27
+          ansible_user: vgtic
+        U230300:
+          ansible_host: 158.227.28.28
+          ansible_user: vgtic
+        U230301:
+          ansible_host: 158.227.28.29
+          ansible_user: vgtic
+        U230302:
+          ansible_host: 158.227.28.30
+          ansible_user: vgtic
+        U230303:
+          ansible_host: 158.227.28.31
+          ansible_user: vgtic
+        U230304:
+          ansible_host: 158.227.28.32
+          ansible_user: vgtic
+        U230305:
+          ansible_host: 158.227.28.33
+          ansible_user: vgtic
+        U230306:
+          ansible_host: 158.227.28.34
+          ansible_user: vgtic
+        U230307:
+          ansible_host: 158.227.28.35
+          ansible_user: vgtic
+        U230308:
+          ansible_host: 158.227.28.36
+          ansible_user: vgtic
+        U230309:
+          ansible_host: 158.227.28.37
+          ansible_user: vgtic
+        U230310:
+          ansible_host: 158.227.28.38
+          ansible_user: vgtic
+        U230311:
+          ansible_host: 158.227.28.39
+          ansible_user: vgtic
+        U230312:
+          ansible_host: 158.227.28.40
+          ansible_user: vgtic
+        U230313:
+          ansible_host: 158.227.28.41
+          ansible_user: vgtic
+        U230314:
+          ansible_host: 158.227.28.101
+          ansible_user: vgtic
+        U230315:
+          ansible_host: 158.227.28.102
+          ansible_user: vgtic
+        U230316:
+          ansible_host: 158.227.28.103
+          ansible_user: vgtic
+        U230317:
+          ansible_host: 158.227.28.104
+          ansible_user: vgtic
+        U230318:
+          ansible_host: 158.227.28.105
+          ansible_user: vgtic
+    ciencias-informatica5:
+      hosts:
+        U231845:
+          ansible_host: 158.227.28.222
+          ansible_user: vgtic
+        U231846:
+          ansible_host: 158.227.28.223
+          ansible_user: vgtic
+        U231847:
+          ansible_host: 158.227.28.224
+          ansible_user: vgtic
+        U231848:
+          ansible_host: 158.227.28.225
+          ansible_user: vgtic
+        U231849:
+          ansible_host: 158.227.28.226
+          ansible_user: vgtic
+        U231850:
+          ansible_host: 158.227.28.227
+          ansible_user: vgtic
+        U231851:
+          ansible_host: 158.227.28.228
+          ansible_user: vgtic
+        U231852:
+          ansible_host: 158.227.28.229
+          ansible_user: vgtic
+        U231853:
+          ansible_host: 158.227.28.230
+          ansible_user: vgtic
+        U231854:
+          ansible_host: 158.227.28.231
+          ansible_user: vgtic
+        U231855:
+          ansible_host: 158.227.28.232
+          ansible_user: vgtic
+        U231856:
+          ansible_host: 158.227.28.233
+          ansible_user: vgtic
+        U231857:
+          ansible_host: 158.227.28.234
+          ansible_user: vgtic
+        U231858:
+          ansible_host: 158.227.28.235
+          ansible_user: vgtic
+        U231859:
+          ansible_host: 158.227.28.236
+          ansible_user: vgtic
+        U231860:
+          ansible_host: 158.227.28.237
+          ansible_user: vgtic
+        U231861:
+          ansible_host: 158.227.28.238
+          ansible_user: vgtic
+        U231862:
+          ansible_host: 158.227.28.239
+          ansible_user: vgtic
+        U231863:
+          ansible_host: 158.227.28.240
+          ansible_user: vgtic
+        U231864:
+          ansible_host: 158.227.28.241
+          ansible_user: vgtic
+        U231865:
+          ansible_host: 158.227.28.242
+          ansible_user: vgtic
+        U231866:
+          ansible_host: 158.227.28.243
+          ansible_user: vgtic
+        U231867:
+          ansible_host: 158.227.28.244
+          ansible_user: vgtic
+        U231868:
+          ansible_host: 158.227.28.245
+          ansible_user: vgtic
+    ciencias-informatica6:
+      hosts:
+        U030128:
+          ansible_host: 10.227.28.4
+          ansible_user: vgtic
+        U030129:
+          ansible_host: 10.227.28.5
+          ansible_user: vgtic
+        U030130:
+          ansible_host: 10.227.28.6
+          ansible_user: vgtic
+        U030131:
+          ansible_host: 10.227.28.7
+          ansible_user: vgtic
+        U030132:
+          ansible_host: 10.227.28.8
+          ansible_user: vgtic
+        U030133:
+          ansible_host: 10.227.28.9
+          ansible_user: vgtic
+        U030134:
+          ansible_host: 10.227.28.10
+          ansible_user: vgtic
+        U030135:
+          ansible_host: 10.227.28.11
+          ansible_user: vgtic
+        U030136:
+          ansible_host: 10.227.28.12
+          ansible_user: vgtic
+        U030137:
+          ansible_host: 10.227.28.13
+          ansible_user: vgtic
+        U030138:
+          ansible_host: 10.227.28.14
+          ansible_user: vgtic
+        U030139:
+          ansible_host: 10.227.28.15
+          ansible_user: vgtic
+        U030140:
+          ansible_host: 10.227.28.16
+          ansible_user: vgtic
+        U030141:
+          ansible_host: 10.227.28.17
+          ansible_user: vgtic
+        U030142:
+          ansible_host: 10.227.28.18
+          ansible_user: vgtic
+        U030143:
+          ansible_host: 10.227.28.19
+          ansible_user: vgtic
+        U030144:
+          ansible_host: 10.227.28.20
+          ansible_user: vgtic
+        U030145:
+          ansible_host: 10.227.28.21
+          ansible_user: vgtic
+        U030146:
+          ansible_host: 10.227.28.22
+          ansible_user: vgtic
+        U030147:
+          ansible_host: 10.227.28.23
+          ansible_user: vgtic
+        U030148:
+          ansible_host: 10.227.28.24
+          ansible_user: vgtic
+        U030149:
+          ansible_host: 10.227.28.25
+          ansible_user: vgtic
+        U030161:
+          ansible_host: 10.227.28.26
+          ansible_user: vgtic
+        U030162:
+          ansible_host: 10.227.28.27
+          ansible_user: vgtic
+        U030163:
+          ansible_host: 10.227.28.28
+          ansible_user: vgtic
+        U030164:
+          ansible_host: 10.227.28.29
+          ansible_user: vgtic
+        U030165:
+          ansible_host: 10.227.28.41
+          ansible_user: vgtic
+        U030166:
+          ansible_host: 10.227.28.46
+          ansible_user: vgtic
+        U030167:
+          ansible_host: 10.227.28.47
+          ansible_user: vgtic
+        U030168:
+          ansible_host: 10.227.28.48
+          ansible_user: vgtic
+        U030169:
+          ansible_host: 10.227.28.49
+          ansible_user: vgtic
+        U030170:
+          ansible_host: 10.227.28.50
+          ansible_user: vgtic
+        U030171:
+          ansible_host: 10.227.28.51
+          ansible_user: vgtic
+        U030172:
+          ansible_host: 10.227.28.52
+          ansible_user: vgtic
+        U030173:
+          ansible_host: 10.227.28.53
+          ansible_user: vgtic
+        U030174:
+          ansible_host: 10.227.28.54
+          ansible_user: vgtic
+        U030175:
+          ansible_host: 10.227.28.55
+          ansible_user: vgtic
+        U030176:
+          ansible_host: 10.227.28.56
+          ansible_user: vgtic
+        U030177:
+          ansible_host: 10.227.28.57
+          ansible_user: vgtic
+        U030178:
+          ansible_host: 10.227.28.58
+          ansible_user: vgtic
+        U030179:
+          ansible_host: 10.227.28.59
+          ansible_user: vgtic
+    ciencias-informatica7:
+      hosts:
+        U025985:
+          ansible_host: 10.227.28.91
+          ansible_user: vgtic
+        U025986:
+          ansible_host: 10.227.28.109
+          ansible_user: vgtic
+        U025987:
+          ansible_host: 10.227.28.108
+          ansible_user: vgtic
+        U025988:
+          ansible_host: 10.227.28.107
+          ansible_user: vgtic
+        U025989:
+          ansible_host: 10.227.28.106
+          ansible_user: vgtic
+        U025990:
+          ansible_host: 10.227.28.105
+          ansible_user: vgtic
+        U025991:
+          ansible_host: 10.227.28.104
+          ansible_user: vgtic
+        U025992:
+          ansible_host: 10.227.28.103
+          ansible_user: vgtic
+        U025993:
+          ansible_host: 10.227.28.90
+          ansible_user: vgtic
+        U025994:
+          ansible_host: 10.227.28.102
+          ansible_user: vgtic
+        U025995:
+          ansible_host: 10.227.28.101
+          ansible_user: vgtic
+        U025996:
+          ansible_host: 10.227.28.100
+          ansible_user: vgtic
+        U025997:
+          ansible_host: 10.227.28.99
+          ansible_user: vgtic
+        U025998:
+          ansible_host: 10.227.28.98
+          ansible_user: vgtic
+        U025999:
+          ansible_host: 10.227.28.97
+          ansible_user: vgtic
+        U026000:
+          ansible_host: 10.227.28.96
+          ansible_user: vgtic
+        U026001:
+          ansible_host: 10.227.28.95
+          ansible_user: vgtic
+        U026002:
+          ansible_host: 10.227.28.94
+          ansible_user: vgtic
+        U026003:
+          ansible_host: 10.227.28.93
+          ansible_user: vgtic
+        U026004:
+          ansible_host: 10.227.28.92
+          ansible_user: vgtic
+        U026005:
+          ansible_host: 10.227.28.88
+          ansible_user: vgtic
+    ciencias-informatica8:
+      hosts:
+        U230281:
+          ansible_host: 10.227.28.80
+          ansible_user: vgtic
+        U230319:
+          ansible_host: 10.227.28.60
+          ansible_user: vgtic
+        U230320:
+          ansible_host: 10.227.28.61
+          ansible_user: vgtic
+        U230321:
+          ansible_host: 10.227.28.62
+          ansible_user: vgtic
+        U230322:
+          ansible_host: 10.227.28.63
+          ansible_user: vgtic
+        U230323:
+          ansible_host: 10.227.28.64
+          ansible_user: vgtic
+        U230324:
+          ansible_host: 10.227.28.65
+          ansible_user: vgtic
+        U230325:
+          ansible_host: 10.227.28.66
+          ansible_user: vgtic
+        U230326:
+          ansible_host: 10.227.28.67
+          ansible_user: vgtic
+        U230327:
+          ansible_host: 10.227.28.68
+          ansible_user: vgtic
+        U230328:
+          ansible_host: 10.227.28.69
+          ansible_user: vgtic
+        U230329:
+          ansible_host: 10.227.28.70
+          ansible_user: vgtic
+        U230330:
+          ansible_host: 10.227.28.71
+          ansible_user: vgtic
+        U230331:
+          ansible_host: 10.227.28.72
+          ansible_user: vgtic
+        U230332:
+          ansible_host: 10.227.28.73
+          ansible_user: vgtic
+        U230333:
+          ansible_host: 10.227.28.74
+          ansible_user: vgtic
+        U230334:
+          ansible_host: 10.227.28.75
+          ansible_user: vgtic
+        U230335:
+          ansible_host: 10.227.28.76
+          ansible_user: vgtic
+        U230336:
+          ansible_host: 10.227.28.77
+          ansible_user: vgtic
+        U230337:
+          ansible_host: 10.227.28.78
+          ansible_user: vgtic
+        U230338:
+          ansible_host: 10.227.28.79
+          ansible_user: vgtic
+    ciencias-informatica9:
+      hosts:
+        U031086:
+          ansible_host: 10.227.28.229
+          ansible_user: vgtic
+        U031087:
+          ansible_host: 10.227.28.230
+          ansible_user: vgtic
+        U031088:
+          ansible_host: 10.227.28.231
+          ansible_user: vgtic
+        U031089:
+          ansible_host: 10.227.28.232
+          ansible_user: vgtic
+        U031090:
+          ansible_host: 10.227.28.233
+          ansible_user: vgtic
+        U031091:
+          ansible_host: 10.227.28.234
+          ansible_user: vgtic
+        U031092:
+          ansible_host: 10.227.28.235
+          ansible_user: vgtic
+        U031093:
+          ansible_host: 10.227.28.236
+          ansible_user: vgtic
+        U031094:
+          ansible_host: 10.227.28.237
+          ansible_user: vgtic
+        U031095:
+          ansible_host: 10.227.28.238
+          ansible_user: vgtic
+        U031096:
+          ansible_host: 10.227.28.239
+          ansible_user: vgtic
+        U031097:
+          ansible_host: 10.227.28.240
+          ansible_user: vgtic
+        U033358:
+          ansible_host: 10.227.29.1
+          ansible_user: vgtic
+        U033359:
+          ansible_host: 10.227.29.2
+          ansible_user: vgtic
+        U033360:
+          ansible_host: 10.227.29.3
+          ansible_user: vgtic
+        U033361:
+          ansible_host: 10.227.29.4
+          ansible_user: vgtic
+        U033362:
+          ansible_host: 10.227.29.5
+          ansible_user: vgtic
+        U033363:
+          ansible_host: 10.227.29.6
+          ansible_user: vgtic
+        U033364:
+          ansible_host: 10.227.29.7
+          ansible_user: vgtic
+        U033365:
+          ansible_host: 10.227.29.8
+          ansible_user: vgtic
+        U033366:
+          ansible_host: 10.227.29.9
+          ansible_user: vgtic
+        U033367:
+          ansible_host: 10.227.29.10
+          ansible_user: vgtic
+        U033368:
+          ansible_host: 10.227.29.11
+          ansible_user: vgtic
+        U033369:
+          ansible_host: 10.227.29.12
+          ansible_user: vgtic
+        U033370:
+          ansible_host: 10.227.29.13
+          ansible_user: vgtic
+        U033371:
+          ansible_host: 10.227.29.14
+          ansible_user: vgtic
+        U033372:
+          ansible_host: 10.227.29.15
+          ansible_user: vgtic
+        U033373:
+          ansible_host: 10.227.29.16
+          ansible_user: vgtic
+        U033374:
+          ansible_host: 10.227.29.17
+          ansible_user: vgtic
+        U033375:
+          ansible_host: 10.227.29.18
+          ansible_user: vgtic
+        U033376:
+          ansible_host: 10.227.29.19
+          ansible_user: vgtic
+        U033377:
+          ansible_host: 10.227.29.20
+          ansible_user: vgtic
+        U033378:
+          ansible_host: 10.227.29.21
+          ansible_user: vgtic
+        U033379:
+          ansible_host: 10.227.29.22
+          ansible_user: vgtic
+        U033380:
+          ansible_host: 10.227.29.23
+          ansible_user: vgtic
+        U033381:
+          ansible_host: 10.227.29.24
+          ansible_user: vgtic
+        U033382:
+          ansible_host: 10.227.29.25
+          ansible_user: vgtic
+        U033383:
+          ansible_host: 10.227.29.26
+          ansible_user: vgtic
+        U033384:
+          ansible_host: 10.227.29.27
+          ansible_user: vgtic
+        U033385:
+          ansible_host: 10.227.29.28
+          ansible_user: vgtic
+        U033386:
+          ansible_host: 10.227.29.29
+          ansible_user: vgtic
+        U033387:
+          ansible_host: 10.227.29.30
+          ansible_user: vgtic
+        U033388:
+          ansible_host: 10.227.29.31
+          ansible_user: vgtic
+        U033389:
+          ansible_host: 10.227.29.32
+          ansible_user: vgtic
+        U033390:
+          ansible_host: 10.227.29.33
+          ansible_user: vgtic
+    ciencias-informaticaalumnos:
+      hosts:
+        U032861:
+          ansible_host: 158.227.28.50
+          ansible_user: vgtic
+        U032862:
+          ansible_host: 158.227.28.51
+          ansible_user: vgtic
+        U032863:
+          ansible_host: 158.227.28.52
+          ansible_user: vgtic
+        U032864:
+          ansible_host: 158.227.28.53
+          ansible_user: vgtic
+        U032865:
+          ansible_host: 158.227.28.54
+          ansible_user: vgtic
+        U032866:
+          ansible_host: 158.227.28.55
+          ansible_user: vgtic
+        U032867:
+          ansible_host: 158.227.28.56
+          ansible_user: vgtic
+        U032868:
+          ansible_host: 158.227.28.57
+          ansible_user: vgtic
+        U032869:
+          ansible_host: 158.227.28.58
+          ansible_user: vgtic
+        U032870:
+          ansible_host: 158.227.28.59
+          ansible_user: vgtic
+        U032871:
+          ansible_host: 158.227.28.60
+          ansible_user: vgtic
+        U032872:
+          ansible_host: 158.227.28.61
+          ansible_user: vgtic
+        U032873:
+          ansible_host: 158.227.28.62
+          ansible_user: vgtic
+        U032874:
+          ansible_host: 158.227.28.63
+          ansible_user: vgtic
+        U032875:
+          ansible_host: 158.227.28.64
+          ansible_user: vgtic
+        U032876:
+          ansible_host: 158.227.28.65
+          ansible_user: vgtic
+        U032877:
+          ansible_host: 158.227.28.66
+          ansible_user: vgtic
+        U032878:
+          ansible_host: 158.227.28.67
+          ansible_user: vgtic
+        U032879:
+          ansible_host: 158.227.28.68
+          ansible_user: vgtic
+        U032880:
+          ansible_host: 158.227.28.69
+          ansible_user: vgtic
+        U032881:
+          ansible_host: 158.227.28.70
+          ansible_user: vgtic
+        U032882:
+          ansible_host: 158.227.28.71
+          ansible_user: vgtic
+        U032883:
+          ansible_host: 158.227.28.72
+          ansible_user: vgtic
+        U032884:
+          ansible_host: 158.227.28.73
+          ansible_user: vgtic
+        U032885:
+          ansible_host: 158.227.28.74
+          ansible_user: vgtic
+        U032886:
+          ansible_host: 158.227.28.75
+          ansible_user: vgtic
+        U032887:
+          ansible_host: 158.227.28.76
+          ansible_user: vgtic
+        U032888:
+          ansible_host: 158.227.28.77
+          ansible_user: vgtic
+        U032889:
+          ansible_host: 158.227.28.78
+          ansible_user: vgtic
+        U032890:
+          ansible_host: 158.227.28.79
+          ansible_user: vgtic
+    ciencias-laboratorio022:
+      hosts:
+        U026342:
+          ansible_host: 10.227.28.139
+          ansible_user: vgtic
+        U026343:
+          ansible_host: 10.227.28.140
+          ansible_user: vgtic
+        U026344:
+          ansible_host: 10.227.28.141
+          ansible_user: vgtic
+        U113929:
+          ansible_host: 10.227.28.183
+          ansible_user: vgtic
+        U113930:
+          ansible_host: 10.227.28.184
+          ansible_user: vgtic
+        U113931:
+          ansible_host: 10.227.28.185
+          ansible_user: vgtic
+        U113932:
+          ansible_host: 10.227.28.186
+          ansible_user: vgtic
+        U113933:
+          ansible_host: 10.227.28.188
+          ansible_user: vgtic
+        U113934:
+          ansible_host: 10.227.28.44
+          ansible_user: vgtic
+        U113935:
+          ansible_host: 10.227.28.180
+          ansible_user: vgtic
+        U113936:
+          ansible_host: 10.227.28.191
+          ansible_user: vgtic
+        U113937:
+          ansible_host: 10.227.28.192
+          ansible_user: vgtic
+        U113938:
+          ansible_host: 10.227.28.193
+          ansible_user: vgtic
+        U113939:
+          ansible_host: 10.227.28.181
+          ansible_user: vgtic
+        U113940:
+          ansible_host: 10.227.28.195
+          ansible_user: vgtic
+        U113941:
+          ansible_host: 10.227.28.196
+          ansible_user: vgtic
+        U211817:
+          ansible_host: 10.227.28.120
+          ansible_user: vgtic
+        U211826:
+          ansible_host: 10.227.28.182
+          ansible_user: vgtic
+        U211827:
+          ansible_host: 10.227.28.121
+          ansible_user: vgtic
+Facultad de Ciencias Sociales y de la Comunicacion:
+  children:
+    aula-bz-periodismo-MM10:
+      hosts:
+        U109256:
+          ansible_host: 10.227.16.137
+          ansible_user: vgtic
+        U109257:
+          ansible_host: 10.227.16.138
+          ansible_user: vgtic
+        U109258:
+          ansible_host: 10.227.16.139
+          ansible_user: vgtic
+        U109259:
+          ansible_host: 10.227.16.140
+          ansible_user: vgtic
+        U109260:
+          ansible_host: 10.227.16.141
+          ansible_user: vgtic
+        U109261:
+          ansible_host: 10.227.16.142
+          ansible_user: vgtic
+        U109262:
+          ansible_host: 10.227.16.143
+          ansible_user: vgtic
+        U109263:
+          ansible_host: 10.227.16.144
+          ansible_user: vgtic
+        U109264:
+          ansible_host: 10.227.16.145
+          ansible_user: vgtic
+        U109265:
+          ansible_host: 10.227.16.146
+          ansible_user: vgtic
+        U109266:
+          ansible_host: 10.227.16.147
+          ansible_user: vgtic
+        U109267:
+          ansible_host: 10.227.16.148
+          ansible_user: vgtic
+        U109268:
+          ansible_host: 10.227.16.149
+          ansible_user: vgtic
+        U109269:
+          ansible_host: 10.227.16.150
+          ansible_user: vgtic
+        U109270:
+          ansible_host: 10.227.16.151
+          ansible_user: vgtic
+        U109271:
+          ansible_host: 10.227.16.152
+          ansible_user: vgtic
+        U109272:
+          ansible_host: 10.227.16.153
+          ansible_user: vgtic
+        U109273:
+          ansible_host: 10.227.16.154
+          ansible_user: vgtic
+        U109274:
+          ansible_host: 10.227.16.155
+          ansible_user: vgtic
+        U109275:
+          ansible_host: 10.227.16.156
+          ansible_user: vgtic
+        U109276:
+          ansible_host: 10.227.16.157
+          ansible_user: vgtic
+        U109277:
+          ansible_host: 10.227.16.158
+          ansible_user: vgtic
+        U109278:
+          ansible_host: 10.227.16.159
+          ansible_user: vgtic
+        U109279:
+          ansible_host: 10.227.16.160
+          ansible_user: vgtic
+        U109280:
+          ansible_host: 10.227.16.161
+          ansible_user: vgtic
+        U109281:
+          ansible_host: 10.227.16.162
+          ansible_user: vgtic
+        U109282:
+          ansible_host: 10.227.16.163
+          ansible_user: vgtic
+        U109283:
+          ansible_host: 10.227.16.164
+          ansible_user: vgtic
+        U109284:
+          ansible_host: 10.227.16.165
+          ansible_user: vgtic
+        U109285:
+          ansible_host: 10.227.16.166
+          ansible_user: vgtic
+        U109286:
+          ansible_host: 10.227.16.167
+          ansible_user: vgtic
+    aula-bz-periodismo-mm3:
+      hosts:
+        U112549:
+          ansible_host: 10.227.16.7
+          ansible_user: vgtic
+        U112550:
+          ansible_host: 10.227.16.8
+          ansible_user: vgtic
+        U112551:
+          ansible_host: 10.227.16.9
+          ansible_user: vgtic
+        U112552:
+          ansible_host: 10.227.16.11
+          ansible_user: vgtic
+        U112553:
+          ansible_host: 10.227.16.12
+          ansible_user: vgtic
+        U112554:
+          ansible_host: 10.227.16.13
+          ansible_user: vgtic
+        U112555:
+          ansible_host: 10.227.16.14
+          ansible_user: vgtic
+        U112556:
+          ansible_host: 10.227.16.15
+          ansible_user: vgtic
+        U112557:
+          ansible_host: 10.227.16.16
+          ansible_user: vgtic
+        U112558:
+          ansible_host: 10.227.16.17
+          ansible_user: vgtic
+        U112559:
+          ansible_host: 10.227.16.18
+          ansible_user: vgtic
+        U112560:
+          ansible_host: 10.227.16.19
+          ansible_user: vgtic
+        U112561:
+          ansible_host: 10.227.16.20
+          ansible_user: vgtic
+        U112562:
+          ansible_host: 10.227.16.21
+          ansible_user: vgtic
+        U112563:
+          ansible_host: 10.227.16.22
+          ansible_user: vgtic
+        U112564:
+          ansible_host: 10.227.16.23
+          ansible_user: vgtic
+        U112565:
+          ansible_host: 10.227.16.24
+          ansible_user: vgtic
+        U112566:
+          ansible_host: 10.227.16.25
+          ansible_user: vgtic
+        U112567:
+          ansible_host: 10.227.16.26
+          ansible_user: vgtic
+        U112568:
+          ansible_host: 10.227.16.27
+          ansible_user: vgtic
+        U112569:
+          ansible_host: 10.227.16.28
+          ansible_user: vgtic
+        U112570:
+          ansible_host: 10.227.16.29
+          ansible_user: vgtic
+        U112571:
+          ansible_host: 10.227.16.30
+          ansible_user: vgtic
+        U112572:
+          ansible_host: 10.227.16.31
+          ansible_user: vgtic
+        U112573:
+          ansible_host: 10.227.16.32
+          ansible_user: vgtic
+        U112574:
+          ansible_host: 10.227.16.33
+          ansible_user: vgtic
+        U112575:
+          ansible_host: 10.227.16.34
+          ansible_user: vgtic
+        U112576:
+          ansible_host: 10.227.16.35
+          ansible_user: vgtic
+        U112577:
+          ansible_host: 10.227.16.36
+          ansible_user: vgtic
+        U112578:
+          ansible_host: 10.227.16.37
+          ansible_user: vgtic
+        U112579:
+          ansible_host: 10.227.16.38
+          ansible_user: vgtic
+        U112580:
+          ansible_host: 10.227.16.44
+          ansible_user: vgtic
+        U112581:
+          ansible_host: 10.227.16.47
+          ansible_user: vgtic
+        U112582:
+          ansible_host: 10.227.16.130
+          ansible_user: vgtic
+        U112583:
+          ansible_host: 10.227.16.131
+          ansible_user: vgtic
+    aula-bz-periodismo-mm4:
+      hosts:
+        U109303:
+          ansible_host: 10.227.16.49
+          ansible_user: vgtic
+        U109304:
+          ansible_host: 10.227.16.133
+          ansible_user: vgtic
+        U109305:
+          ansible_host: 10.227.16.168
+          ansible_user: vgtic
+        U109306:
+          ansible_host: 10.227.16.169
+          ansible_user: vgtic
+        U109307:
+          ansible_host: 10.227.16.170
+          ansible_user: vgtic
+        U109308:
+          ansible_host: 10.227.16.171
+          ansible_user: vgtic
+        U109309:
+          ansible_host: 10.227.16.172
+          ansible_user: vgtic
+        U109310:
+          ansible_host: 10.227.16.173
+          ansible_user: vgtic
+        U109311:
+          ansible_host: 10.227.16.174
+          ansible_user: vgtic
+        U109312:
+          ansible_host: 10.227.16.175
+          ansible_user: vgtic
+        U109313:
+          ansible_host: 10.227.16.176
+          ansible_user: vgtic
+        U109314:
+          ansible_host: 10.227.16.177
+          ansible_user: vgtic
+        U109315:
+          ansible_host: 10.227.16.178
+          ansible_user: vgtic
+        U109316:
+          ansible_host: 10.227.16.179
+          ansible_user: vgtic
+        U109317:
+          ansible_host: 10.227.16.180
+          ansible_user: vgtic
+        U109318:
+          ansible_host: 10.227.16.181
+          ansible_user: vgtic
+        U109319:
+          ansible_host: 10.227.16.182
+          ansible_user: vgtic
+        U109320:
+          ansible_host: 10.227.16.183
+          ansible_user: vgtic
+        U109321:
+          ansible_host: 10.227.16.184
+          ansible_user: vgtic
+        U109322:
+          ansible_host: 10.227.16.185
+          ansible_user: vgtic
+        U109323:
+          ansible_host: 10.227.16.186
+          ansible_user: vgtic
+        U109325:
+          ansible_host: 10.227.16.188
+          ansible_user: vgtic
+        U109326:
+          ansible_host: 10.227.16.189
+          ansible_user: vgtic
+        U109327:
+          ansible_host: 10.227.16.190
+          ansible_user: vgtic
+        U109328:
+          ansible_host: 10.227.16.191
+          ansible_user: vgtic
+        U109329:
+          ansible_host: 10.227.16.192
+          ansible_user: vgtic
+        U109330:
+          ansible_host: 10.227.16.193
+          ansible_user: vgtic
+        U109331:
+          ansible_host: 10.227.16.194
+          ansible_user: vgtic
+        U109332:
+          ansible_host: 10.227.16.195
+          ansible_user: vgtic
+        U109333:
+          ansible_host: 10.227.16.196
+          ansible_user: vgtic
+        U109334:
+          ansible_host: 10.227.16.197
+          ansible_user: vgtic
+        U109335:
+          ansible_host: 10.227.16.198
+          ansible_user: vgtic
+        U109336:
+          ansible_host: 10.227.16.199
+          ansible_user: vgtic
+        U109337:
+          ansible_host: 10.227.16.200
+          ansible_user: vgtic
+        U109338:
+          ansible_host: 10.227.16.201
+          ansible_user: vgtic
+        U109339:
+          ansible_host: 10.227.16.202
+          ansible_user: vgtic
+        U109340:
+          ansible_host: 10.227.16.203
+          ansible_user: vgtic
+        U109341:
+          ansible_host: 10.227.16.204
+          ansible_user: vgtic
+        U109342:
+          ansible_host: 10.227.16.206
+          ansible_user: vgtic
+    aula-bz-periodismo-mm6:
+      hosts:
+        U108366:
+          ansible_host: 158.227.16.54
+          ansible_user: vgtic
+        U108367:
+          ansible_host: 158.227.16.55
+          ansible_user: vgtic
+        U108368:
+          ansible_host: 158.227.16.56
+          ansible_user: vgtic
+        U108369:
+          ansible_host: 158.227.16.57
+          ansible_user: vgtic
+        U108370:
+          ansible_host: 158.227.16.58
+          ansible_user: vgtic
+        U108371:
+          ansible_host: 158.227.16.59
+          ansible_user: vgtic
+        U108372:
+          ansible_host: 158.227.16.60
+          ansible_user: vgtic
+        U108373:
+          ansible_host: 158.227.16.61
+          ansible_user: vgtic
+        U108374:
+          ansible_host: 158.227.16.62
+          ansible_user: vgtic
+        U108375:
+          ansible_host: 158.227.16.63
+          ansible_user: vgtic
+        U108376:
+          ansible_host: 158.227.16.64
+          ansible_user: vgtic
+        U108377:
+          ansible_host: 158.227.16.65
+          ansible_user: vgtic
+        U108378:
+          ansible_host: 158.227.16.66
+          ansible_user: vgtic
+        U108379:
+          ansible_host: 158.227.16.67
+          ansible_user: vgtic
+        U108380:
+          ansible_host: 158.227.16.68
+          ansible_user: vgtic
+        U108381:
+          ansible_host: 158.227.16.69
+          ansible_user: vgtic
+        U108382:
+          ansible_host: 158.227.16.70
+          ansible_user: vgtic
+        U108383:
+          ansible_host: 158.227.16.71
+          ansible_user: vgtic
+        U108384:
+          ansible_host: 158.227.16.72
+          ansible_user: vgtic
+        U108385:
+          ansible_host: 158.227.16.73
+          ansible_user: vgtic
+        U108386:
+          ansible_host: 158.227.16.74
+          ansible_user: vgtic
+        U108387:
+          ansible_host: 158.227.16.75
+          ansible_user: vgtic
+        U108388:
+          ansible_host: 158.227.16.76
+          ansible_user: vgtic
+        U108389:
+          ansible_host: 158.227.16.77
+          ansible_user: vgtic
+        U108390:
+          ansible_host: 158.227.16.78
+          ansible_user: vgtic
+        U108391:
+          ansible_host: 158.227.16.79
+          ansible_user: vgtic
+        U108392:
+          ansible_host: 158.227.16.80
+          ansible_user: vgtic
+        U108393:
+          ansible_host: 158.227.16.81
+          ansible_user: vgtic
+        U108394:
+          ansible_host: 158.227.16.82
+          ansible_user: vgtic
+        U108395:
+          ansible_host: 158.227.16.83
+          ansible_user: vgtic
+        U108396:
+          ansible_host: 158.227.16.84
+          ansible_user: vgtic
+    aula-bz-periodismo-mm7:
+      hosts:
+        U115902:
+          ansible_host: 10.227.16.207
+          ansible_user: vgtic
+        U115903:
+          ansible_host: 10.227.16.208
+          ansible_user: vgtic
+        U115904:
+          ansible_host: 10.227.16.209
+          ansible_user: vgtic
+        U115905:
+          ansible_host: 10.227.16.210
+          ansible_user: vgtic
+        U115906:
+          ansible_host: 10.227.16.211
+          ansible_user: vgtic
+        U115907:
+          ansible_host: 10.227.16.212
+          ansible_user: vgtic
+        U115908:
+          ansible_host: 10.227.16.213
+          ansible_user: vgtic
+        U115909:
+          ansible_host: 10.227.16.214
+          ansible_user: vgtic
+        U115910:
+          ansible_host: 10.227.16.215
+          ansible_user: vgtic
+        U115911:
+          ansible_host: 10.227.16.216
+          ansible_user: vgtic
+        U115912:
+          ansible_host: 10.227.16.217
+          ansible_user: vgtic
+        U115913:
+          ansible_host: 10.227.16.218
+          ansible_user: vgtic
+        U115914:
+          ansible_host: 10.227.16.219
+          ansible_user: vgtic
+        U115915:
+          ansible_host: 10.227.16.220
+          ansible_user: vgtic
+        U115916:
+          ansible_host: 10.227.16.221
+          ansible_user: vgtic
+        U115917:
+          ansible_host: 10.227.16.222
+          ansible_user: vgtic
+        U115918:
+          ansible_host: 10.227.16.223
+          ansible_user: vgtic
+        U115919:
+          ansible_host: 10.227.16.224
+          ansible_user: vgtic
+        U115920:
+          ansible_host: 10.227.16.225
+          ansible_user: vgtic
+        U115921:
+          ansible_host: 10.227.16.226
+          ansible_user: vgtic
+        U115922:
+          ansible_host: 10.227.16.227
+          ansible_user: vgtic
+        U115923:
+          ansible_host: 10.227.16.228
+          ansible_user: vgtic
+        U115924:
+          ansible_host: 10.227.16.229
+          ansible_user: vgtic
+        U115925:
+          ansible_host: 10.227.16.230
+          ansible_user: vgtic
+        U115926:
+          ansible_host: 10.227.16.231
+          ansible_user: vgtic
+        U115927:
+          ansible_host: 10.227.16.232
+          ansible_user: vgtic
+        U115928:
+          ansible_host: 10.227.16.233
+          ansible_user: vgtic
+        U115929:
+          ansible_host: 10.227.16.234
+          ansible_user: vgtic
+        U115930:
+          ansible_host: 10.227.16.235
+          ansible_user: vgtic
+        u115931:
+          ansible_host: 10.227.16.236
+          ansible_user: vgtic
+    aula-bz-periodismo-mm8:
+      hosts:
+        U108578:
+          ansible_host: 10.227.16.50
+          ansible_user: vgtic
+        U108579:
+          ansible_host: 10.227.16.51
+          ansible_user: vgtic
+        U108580:
+          ansible_host: 10.227.16.52
+          ansible_user: vgtic
+        U108581:
+          ansible_host: 10.227.16.53
+          ansible_user: vgtic
+        U108582:
+          ansible_host: 10.227.16.54
+          ansible_user: vgtic
+        U108583:
+          ansible_host: 10.227.16.55
+          ansible_user: vgtic
+        U108584:
+          ansible_host: 10.227.16.56
+          ansible_user: vgtic
+        U108585:
+          ansible_host: 10.227.16.57
+          ansible_user: vgtic
+        U108586:
+          ansible_host: 10.227.16.58
+          ansible_user: vgtic
+        U108587:
+          ansible_host: 10.227.16.59
+          ansible_user: vgtic
+        U108588:
+          ansible_host: 10.227.16.60
+          ansible_user: vgtic
+        U108589:
+          ansible_host: 10.227.16.61
+          ansible_user: vgtic
+        U108591:
+          ansible_host: 10.227.16.63
+          ansible_user: vgtic
+        U108592:
+          ansible_host: 10.227.16.64
+          ansible_user: vgtic
+        U108593:
+          ansible_host: 10.227.16.65
+          ansible_user: vgtic
+        U108594:
+          ansible_host: 10.227.16.66
+          ansible_user: vgtic
+        U108595:
+          ansible_host: 10.227.16.67
+          ansible_user: vgtic
+        U108596:
+          ansible_host: 10.227.16.68
+          ansible_user: vgtic
+        U108597:
+          ansible_host: 10.227.16.69
+          ansible_user: vgtic
+        U108598:
+          ansible_host: 10.227.16.70
+          ansible_user: vgtic
+        U108599:
+          ansible_host: 10.227.16.71
+          ansible_user: vgtic
+        U108600:
+          ansible_host: 10.227.16.72
+          ansible_user: vgtic
+        U108601:
+          ansible_host: 10.227.16.73
+          ansible_user: vgtic
+        U108602:
+          ansible_host: 10.227.16.74
+          ansible_user: vgtic
+        U108603:
+          ansible_host: 10.227.16.75
+          ansible_user: vgtic
+        U108604:
+          ansible_host: 10.227.16.76
+          ansible_user: vgtic
+        U108605:
+          ansible_host: 10.227.16.77
+          ansible_user: vgtic
+        U108606:
+          ansible_host: 10.227.16.78
+          ansible_user: vgtic
+        U108607:
+          ansible_host: 10.227.16.79
+          ansible_user: vgtic
+        U108608:
+          ansible_host: 10.227.16.80
+          ansible_user: vgtic
+    aula-bz-periodismo-mm9:
+      hosts:
+        U108320:
+          ansible_host: 158.227.16.17
+          ansible_user: vgtic
+        U108321:
+          ansible_host: 158.227.16.18
+          ansible_user: vgtic
+        U108322:
+          ansible_host: 158.227.16.19
+          ansible_user: vgtic
+        U108323:
+          ansible_host: 158.227.16.21
+          ansible_user: vgtic
+        U108324:
+          ansible_host: 158.227.16.22
+          ansible_user: vgtic
+        U108325:
+          ansible_host: 158.227.16.45
+          ansible_user: vgtic
+        U108326:
+          ansible_host: 158.227.16.46
+          ansible_user: vgtic
+        U108327:
+          ansible_host: 158.227.16.48
+          ansible_user: vgtic
+        U108328:
+          ansible_host: 158.227.16.49
+          ansible_user: vgtic
+        U108329:
+          ansible_host: 158.227.16.51
+          ansible_user: vgtic
+        U108330:
+          ansible_host: 158.227.16.52
+          ansible_user: vgtic
+        U108331:
+          ansible_host: 158.227.16.85
+          ansible_user: vgtic
+        U108332:
+          ansible_host: 158.227.16.86
+          ansible_user: vgtic
+        U108333:
+          ansible_host: 158.227.16.87
+          ansible_user: vgtic
+        U108334:
+          ansible_host: 158.227.16.88
+          ansible_user: vgtic
+        U108335:
+          ansible_host: 158.227.16.89
+          ansible_user: vgtic
+        U108336:
+          ansible_host: 158.227.16.90
+          ansible_user: vgtic
+        U108337:
+          ansible_host: 158.227.16.91
+          ansible_user: vgtic
+        U108338:
+          ansible_host: 158.227.16.92
+          ansible_user: vgtic
+        U108339:
+          ansible_host: 158.227.16.93
+          ansible_user: vgtic
+        U108340:
+          ansible_host: 158.227.16.94
+          ansible_user: vgtic
+        U108341:
+          ansible_host: 158.227.16.95
+          ansible_user: vgtic
+        U108342:
+          ansible_host: 158.227.16.96
+          ansible_user: vgtic
+        U108343:
+          ansible_host: 158.227.16.97
+          ansible_user: vgtic
+        U108344:
+          ansible_host: 158.227.16.98
+          ansible_user: vgtic
+        U108345:
+          ansible_host: 158.227.16.101
+          ansible_user: vgtic
+        U108346:
+          ansible_host: 158.227.16.102
+          ansible_user: vgtic
+        U108347:
+          ansible_host: 158.227.16.104
+          ansible_user: vgtic
+        U108348:
+          ansible_host: 158.227.16.111
+          ansible_user: vgtic
+        U108349:
+          ansible_host: 158.227.16.112
+          ansible_user: vgtic
+        U108350:
+          ansible_host: 158.227.16.113
+          ansible_user: vgtic
+        U108351:
+          ansible_host: 158.227.16.114
+          ansible_user: vgtic
+        U108352:
+          ansible_host: 158.227.16.115
+          ansible_user: vgtic
+        U108353:
+          ansible_host: 158.227.16.116
+          ansible_user: vgtic
+        U108354:
+          ansible_host: 158.227.16.117
+          ansible_user: vgtic
+        U108355:
+          ansible_host: 158.227.16.118
+          ansible_user: vgtic
+        U108356:
+          ansible_host: 158.227.16.119
+          ansible_user: vgtic
+        U108357:
+          ansible_host: 158.227.16.120
+          ansible_user: vgtic
+        U108358:
+          ansible_host: 158.227.16.121
+          ansible_user: vgtic
+        U108359:
+          ansible_host: 158.227.16.122
+          ansible_user: vgtic
+        U108360:
+          ansible_host: 158.227.16.124
+          ansible_user: vgtic
+        U108361:
+          ansible_host: 158.227.16.125
+          ansible_user: vgtic
+        U108362:
+          ansible_host: 158.227.16.126
+          ansible_user: vgtic
+        U108363:
+          ansible_host: 158.227.16.128
+          ansible_user: vgtic
+        U108364:
+          ansible_host: 158.227.16.129
+          ansible_user: vgtic
+    periodismo-clase:
+      hosts:
+        U033087:
+          ansible_host: 158.227.16.5
+          ansible_user: vgtic
+        U231629:
+          ansible_host: 10.227.16.81
+          ansible_user: vgtic
+        U231630:
+          ansible_host: 10.227.16.82
+          ansible_user: vgtic
+        U231631:
+          ansible_host: 10.227.16.83
+          ansible_user: vgtic
+        U231632:
+          ansible_host: 10.227.16.84
+          ansible_user: vgtic
+        U231633:
+          ansible_host: 10.227.16.85
+          ansible_user: vgtic
+        U231634:
+          ansible_host: 10.227.16.86
+          ansible_user: vgtic
+        U231635:
+          ansible_host: 10.227.16.87
+          ansible_user: vgtic
+        U231636:
+          ansible_host: 10.227.16.88
+          ansible_user: vgtic
+        U231637:
+          ansible_host: 10.227.16.89
+          ansible_user: vgtic
+        U231638:
+          ansible_host: 10.227.16.90
+          ansible_user: vgtic
+        U231639:
+          ansible_host: 10.227.16.91
+          ansible_user: vgtic
+        U231640:
+          ansible_host: 10.227.16.92
+          ansible_user: vgtic
+        U231641:
+          ansible_host: 10.227.16.93
+          ansible_user: vgtic
+        U231642:
+          ansible_host: 10.227.16.94
+          ansible_user: vgtic
+        U231643:
+          ansible_host: 10.227.16.95
+          ansible_user: vgtic
+        U231644:
+          ansible_host: 10.227.16.96
+          ansible_user: vgtic
+        U231645:
+          ansible_host: 10.227.16.97
+          ansible_user: vgtic
+        U231646:
+          ansible_host: 10.227.16.98
+          ansible_user: vgtic
+        U231647:
+          ansible_host: 10.227.16.99
+          ansible_user: vgtic
+        U231648:
+          ansible_host: 10.227.16.100
+          ansible_user: vgtic
+        U231649:
+          ansible_host: 10.227.16.101
+          ansible_user: vgtic
+        U231650:
+          ansible_host: 10.227.16.102
+          ansible_user: vgtic
+        U231651:
+          ansible_host: 10.227.16.103
+          ansible_user: vgtic
+        U231652:
+          ansible_host: 10.227.16.104
+          ansible_user: vgtic
+        U231653:
+          ansible_host: 10.227.16.105
+          ansible_user: vgtic
+        U231654:
+          ansible_host: 10.227.16.106
+          ansible_user: vgtic
+        U231655:
+          ansible_host: 10.227.16.107
+          ansible_user: vgtic
+        U231656:
+          ansible_host: 10.227.16.108
+          ansible_user: vgtic
+        U231657:
+          ansible_host: 10.227.16.109
+          ansible_user: vgtic
+        U231658:
+          ansible_host: 10.227.16.110
+          ansible_user: vgtic
+        U231659:
+          ansible_host: 10.227.16.111
+          ansible_user: vgtic
+        U231660:
+          ansible_host: 10.227.16.112
+          ansible_user: vgtic
+        U231661:
+          ansible_host: 10.227.16.113
+          ansible_user: vgtic
+        U231662:
+          ansible_host: 10.227.16.114
+          ansible_user: vgtic
+        U231663:
+          ansible_host: 10.227.16.115
+          ansible_user: vgtic
+        U231664:
+          ansible_host: 10.227.16.116
+          ansible_user: vgtic
+        U231665:
+          ansible_host: 10.227.16.117
+          ansible_user: vgtic
+        U231666:
+          ansible_host: 10.227.16.118
+          ansible_user: vgtic
+        U231678:
+          ansible_host: 158.227.16.106
+          ansible_user: vgtic
+    periodismo-mintegiak:
+      hosts:
+        U231667:
+          ansible_host: 10.227.16.119
+          ansible_user: vgtic
+        U231668:
+          ansible_host: 10.227.16.120
+          ansible_user: vgtic
+        U231669:
+          ansible_host: 10.227.16.121
+          ansible_user: vgtic
+        U231670:
+          ansible_host: 10.227.16.122
+          ansible_user: vgtic
+        U231671:
+          ansible_host: 10.227.16.123
+          ansible_user: vgtic
+        U231672:
+          ansible_host: 10.227.16.124
+          ansible_user: vgtic
+        U231673:
+          ansible_host: 10.227.16.125
+          ansible_user: vgtic
+        U231674:
+          ansible_host: 10.227.16.126
+          ansible_user: vgtic
+        U231675:
+          ansible_host: 10.227.16.127
+          ansible_user: vgtic
+        U231676:
+          ansible_host: 10.227.16.128
+          ansible_user: vgtic
+        U231677:
+          ansible_host: 10.227.16.129
+          ansible_user: vgtic
+Facultad de Informática:
+  children:
+    informatica-01:
+      hosts:
+        U030160:
+          ansible_host: 158.227.125.145
+          ansible_user: vgtic
+        U032824:
+          ansible_host: 158.227.124.43
+          ansible_user: vgtic
+        U032825:
+          ansible_host: 158.227.124.44
+          ansible_user: vgtic
+        U032826:
+          ansible_host: 158.227.124.10
+          ansible_user: vgtic
+        U032827:
+          ansible_host: 158.227.124.11
+          ansible_user: vgtic
+        U032828:
+          ansible_host: 158.227.124.12
+          ansible_user: vgtic
+        U032829:
+          ansible_host: 158.227.124.13
+          ansible_user: vgtic
+        U032830:
+          ansible_host: 158.227.124.14
+          ansible_user: vgtic
+        U032831:
+          ansible_host: 158.227.124.15
+          ansible_user: vgtic
+        U032832:
+          ansible_host: 158.227.124.16
+          ansible_user: vgtic
+        U032833:
+          ansible_host: 158.227.124.17
+          ansible_user: vgtic
+        U032834:
+          ansible_host: 158.227.124.18
+          ansible_user: vgtic
+        U032835:
+          ansible_host: 158.227.124.19
+          ansible_user: vgtic
+        U032836:
+          ansible_host: 158.227.124.20
+          ansible_user: vgtic
+        U032837:
+          ansible_host: 158.227.124.21
+          ansible_user: vgtic
+        U032838:
+          ansible_host: 158.227.124.22
+          ansible_user: vgtic
+        U032839:
+          ansible_host: 158.227.124.23
+          ansible_user: vgtic
+        U032840:
+          ansible_host: 158.227.124.24
+          ansible_user: vgtic
+        U032841:
+          ansible_host: 158.227.124.25
+          ansible_user: vgtic
+        U032842:
+          ansible_host: 158.227.124.26
+          ansible_user: vgtic
+        U032843:
+          ansible_host: 158.227.124.27
+          ansible_user: vgtic
+        U032844:
+          ansible_host: 158.227.124.28
+          ansible_user: vgtic
+        U032845:
+          ansible_host: 158.227.124.29
+          ansible_user: vgtic
+        U032846:
+          ansible_host: 158.227.124.30
+          ansible_user: vgtic
+        U032847:
+          ansible_host: 158.227.124.31
+          ansible_user: vgtic
+        U032848:
+          ansible_host: 158.227.124.32
+          ansible_user: vgtic
+        U032849:
+          ansible_host: 158.227.124.33
+          ansible_user: vgtic
+        U032850:
+          ansible_host: 158.227.124.34
+          ansible_user: vgtic
+        U032851:
+          ansible_host: 158.227.124.36
+          ansible_user: vgtic
+        U032852:
+          ansible_host: 158.227.124.35
+          ansible_user: vgtic
+        U032853:
+          ansible_host: 158.227.124.37
+          ansible_user: vgtic
+        U032854:
+          ansible_host: 158.227.124.38
+          ansible_user: vgtic
+        U032855:
+          ansible_host: 158.227.124.39
+          ansible_user: vgtic
+        U032856:
+          ansible_host: 158.227.124.40
+          ansible_user: vgtic
+        U032857:
+          ansible_host: 158.227.124.41
+          ansible_user: vgtic
+        U032858:
+          ansible_host: 158.227.124.42
+          ansible_user: vgtic
+    informatica-02:
+      hosts:
+        U115455:
+          ansible_host: 158.227.124.111
+          ansible_user: vgtic
+    informatica-05:
+      hosts:
+        U027196:
+          ansible_host: 158.227.124.144
+          ansible_user: vgtic
+        U027197:
+          ansible_host: 158.227.124.145
+          ansible_user: vgtic
+        U027198:
+          ansible_host: 158.227.124.146
+          ansible_user: vgtic
+        U027199:
+          ansible_host: 158.227.124.147
+          ansible_user: vgtic
+        U027200:
+          ansible_host: 158.227.124.153
+          ansible_user: vgtic
+        U027201:
+          ansible_host: 158.227.124.152
+          ansible_user: vgtic
+        U027202:
+          ansible_host: 158.227.124.151
+          ansible_user: vgtic
+        U027203:
+          ansible_host: 158.227.124.150
+          ansible_user: vgtic
+        U027204:
+          ansible_host: 158.227.124.149
+          ansible_user: vgtic
+        U027205:
+          ansible_host: 158.227.124.148
+          ansible_user: vgtic
+        U027206:
+          ansible_host: 158.227.125.125
+          ansible_user: vgtic
+        U027207:
+          ansible_host: 158.227.125.126
+          ansible_user: vgtic
+        U030155:
+          ansible_host: 158.227.125.35
+          ansible_user: vgtic
+    informatica-06:
+      hosts:
+        U110107:
+          ansible_host: 158.227.124.4
+          ansible_user: vgtic
+        U110108:
+          ansible_host: 158.227.124.5
+          ansible_user: vgtic
+        U110109:
+          ansible_host: 158.227.124.6
+          ansible_user: vgtic
+        U110110:
+          ansible_host: 158.227.124.7
+          ansible_user: vgtic
+        U110111:
+          ansible_host: 158.227.124.8
+          ansible_user: vgtic
+        U110112:
+          ansible_host: 158.227.124.94
+          ansible_user: vgtic
+        U110113:
+          ansible_host: 158.227.124.95
+          ansible_user: vgtic
+        U110114:
+          ansible_host: 158.227.124.96
+          ansible_user: vgtic
+        U110115:
+          ansible_host: 158.227.124.97
+          ansible_user: vgtic
+        U110116:
+          ansible_host: 158.227.124.98
+          ansible_user: vgtic
+        U110117:
+          ansible_host: 158.227.124.103
+          ansible_user: vgtic
+        U110118:
+          ansible_host: 158.227.124.99
+          ansible_user: vgtic
+        U110119:
+          ansible_host: 158.227.124.100
+          ansible_user: vgtic
+        U110195:
+          ansible_host: 158.227.124.101
+          ansible_user: vgtic
+        U110196:
+          ansible_host: 158.227.124.102
+          ansible_user: vgtic
+        U110197:
+          ansible_host: 158.227.124.104
+          ansible_user: vgtic
+        U110198:
+          ansible_host: 158.227.124.105
+          ansible_user: vgtic
+        U110199:
+          ansible_host: 158.227.124.87
+          ansible_user: vgtic
+        U110200:
+          ansible_host: 158.227.124.88
+          ansible_user: vgtic
+        U110201:
+          ansible_host: 158.227.124.89
+          ansible_user: vgtic
+        U110202:
+          ansible_host: 158.227.124.90
+          ansible_user: vgtic
+        U110205:
+          ansible_host: 158.227.124.93
+          ansible_user: vgtic
+    informatica-07:
+      hosts:
+        U105283:
+          ansible_host: 158.227.125.58
+          ansible_user: vgtic
+        U105284:
+          ansible_host: 158.227.125.60
+          ansible_user: vgtic
+        U105285:
+          ansible_host: 158.227.125.61
+          ansible_user: vgtic
+        U105286:
+          ansible_host: 158.227.124.195
+          ansible_user: vgtic
+        U105287:
+          ansible_host: 158.227.124.203
+          ansible_user: vgtic
+        U105288:
+          ansible_host: 158.227.125.59
+          ansible_user: vgtic
+        U105289:
+          ansible_host: 158.227.124.232
+          ansible_user: vgtic
+        U105290:
+          ansible_host: 158.227.124.233
+          ansible_user: vgtic
+        U105291:
+          ansible_host: 158.227.124.234
+          ansible_user: vgtic
+        U105295:
+          ansible_host: 158.227.125.63
+          ansible_user: vgtic
+        U105296:
+          ansible_host: 158.227.125.64
+          ansible_user: vgtic
+        U105297:
+          ansible_host: 158.227.125.67
+          ansible_user: vgtic
+        U105298:
+          ansible_host: 158.227.125.71
+          ansible_user: vgtic
+        U105300:
+          ansible_host: 158.227.125.69
+          ansible_user: vgtic
+        U105301:
+          ansible_host: 158.227.125.70
+          ansible_user: vgtic
+        U105302:
+          ansible_host: 158.227.126.172
+          ansible_user: vgtic
+        U105303:
+          ansible_host: 158.227.124.217
+          ansible_user: vgtic
+        U106246:
+          ansible_host: 158.227.125.16
+          ansible_user: vgtic
+        U106248:
+          ansible_host: 158.227.124.155
+          ansible_user: vgtic
+        U106249:
+          ansible_host: 158.227.124.156
+          ansible_user: vgtic
+        U106250:
+          ansible_host: 158.227.124.157
+          ansible_user: vgtic
+        U106251:
+          ansible_host: 158.227.124.158
+          ansible_user: vgtic
+        U106252:
+          ansible_host: 158.227.124.159
+          ansible_user: vgtic
+        U106253:
+          ansible_host: 158.227.124.160
+          ansible_user: vgtic
+        U106254:
+          ansible_host: 158.227.124.161
+          ansible_user: vgtic
+        U106255:
+          ansible_host: 158.227.124.162
+          ansible_user: vgtic
+        U106256:
+          ansible_host: 158.227.126.173
+          ansible_user: vgtic
+        U106257:
+          ansible_host: 158.227.124.164
+          ansible_user: vgtic
+    informatica-12:
+      hosts:
+        U025224:
+          ansible_host: 158.227.125.177
+          ansible_user: vgtic
+        U025225:
+          ansible_host: 158.227.125.178
+          ansible_user: vgtic
+        U025226:
+          ansible_host: 158.227.125.179
+          ansible_user: vgtic
+        U025227:
+          ansible_host: 158.227.125.180
+          ansible_user: vgtic
+        U025228:
+          ansible_host: 158.227.125.181
+          ansible_user: vgtic
+        U025229:
+          ansible_host: 158.227.125.182
+          ansible_user: vgtic
+    informatica-14:
+      hosts:
+        U030066:
+          ansible_host: 158.227.124.199
+          ansible_user: vgtic
+    informatica-15:
+      hosts:
+        U030122:
+          ansible_host: 158.227.125.139
+          ansible_user: vgtic
+        U030123:
+          ansible_host: 158.227.125.140
+          ansible_user: vgtic
+        U030124:
+          ansible_host: 158.227.125.141
+          ansible_user: vgtic
+        U030125:
+          ansible_host: 158.227.125.142
+          ansible_user: vgtic
+        U030126:
+          ansible_host: 158.227.125.143
+          ansible_user: vgtic
+        U030127:
+          ansible_host: 158.227.125.144
+          ansible_user: vgtic
+    informatica-24h:
+      hosts:
+        U030115:
+          ansible_host: 158.227.125.132
+          ansible_user: vgtic
+    informatica-e03:
+      hosts:
+        U111532:
+          ansible_host: 158.227.126.86
+          ansible_user: vgtic
+        U111533:
+          ansible_host: 158.227.126.87
+          ansible_user: vgtic
+        U111534:
+          ansible_host: 158.227.124.61
+          ansible_user: vgtic
+        U111535:
+          ansible_host: 158.227.126.89
+          ansible_user: vgtic
+        U111536:
+          ansible_host: 158.227.126.90
+          ansible_user: vgtic
+        U111537:
+          ansible_host: 158.227.126.91
+          ansible_user: vgtic
+        U112041:
+          ansible_host: 158.227.124.237
+          ansible_user: vgtic
+        U112043:
+          ansible_host: 158.227.124.238
+          ansible_user: vgtic
+        U112044:
+          ansible_host: 158.227.124.239
+          ansible_user: vgtic
+        U112045:
+          ansible_host: 158.227.124.240
+          ansible_user: vgtic
+        U112046:
+          ansible_host: 158.227.124.241
+          ansible_user: vgtic
+        U112047:
+          ansible_host: 158.227.126.107
+          ansible_user: vgtic
+        U112048:
+          ansible_host: 158.227.126.108
+          ansible_user: vgtic
+        U112049:
+          ansible_host: 158.227.126.109
+          ansible_user: vgtic
+        U112050:
+          ansible_host: 158.227.126.110
+          ansible_user: vgtic
+        U112051:
+          ansible_host: 158.227.126.111
+          ansible_user: vgtic
+        U112052:
+          ansible_host: 158.227.126.112
+          ansible_user: vgtic
+        U112053:
+          ansible_host: 158.227.126.113
+          ansible_user: vgtic
+        U112054:
+          ansible_host: 158.227.126.114
+          ansible_user: vgtic
+        U112055:
+          ansible_host: 158.227.126.115
+          ansible_user: vgtic
+        U112056:
+          ansible_host: 158.227.126.116
+          ansible_user: vgtic
+        U112057:
+          ansible_host: 158.227.126.117
+          ansible_user: vgtic
+        U112058:
+          ansible_host: 158.227.126.118
+          ansible_user: vgtic
+        U112059:
+          ansible_host: 158.227.126.119
+          ansible_user: vgtic
+    informatica-e04:
+      hosts:
+        U113839:
+          ansible_host: 158.227.124.9
+          ansible_user: vgtic
+    informatica-e05:
+      hosts:
+        U030110:
+          ansible_host: 158.227.125.127
+          ansible_user: vgtic
+        U030111:
+          ansible_host: 158.227.125.128
+          ansible_user: vgtic
+        U030112:
+          ansible_host: 158.227.125.129
+          ansible_user: vgtic
+        U030113:
+          ansible_host: 158.227.125.130
+          ansible_user: vgtic
+        U030114:
+          ansible_host: 158.227.125.131
+          ansible_user: vgtic
+        U030116:
+          ansible_host: 158.227.125.133
+          ansible_user: vgtic
+        U030117:
+          ansible_host: 158.227.125.134
+          ansible_user: vgtic
+        U030118:
+          ansible_host: 158.227.125.135
+          ansible_user: vgtic
+        U030119:
+          ansible_host: 158.227.125.136
+          ansible_user: vgtic
+        U030120:
+          ansible_host: 158.227.125.137
+          ansible_user: vgtic
+        U030121:
+          ansible_host: 158.227.125.138
+          ansible_user: vgtic
+        U034155:
+          ansible_host: 158.227.125.193
+          ansible_user: vgtic
+        U034156:
+          ansible_host: 158.227.125.194
+          ansible_user: vgtic
+        U034157:
+          ansible_host: 158.227.125.195
+          ansible_user: vgtic
+        U034158:
+          ansible_host: 158.227.125.196
+          ansible_user: vgtic
+        U034159:
+          ansible_host: 158.227.125.197
+          ansible_user: vgtic
+        U034160:
+          ansible_host: 158.227.125.198
+          ansible_user: vgtic
+        U034161:
+          ansible_host: 158.227.125.199
+          ansible_user: vgtic
+        U034162:
+          ansible_host: 158.227.125.200
+          ansible_user: vgtic
+        U034163:
+          ansible_host: 158.227.125.201
+          ansible_user: vgtic
+        U034164:
+          ansible_host: 158.227.125.202
+          ansible_user: vgtic
+        U034165:
+          ansible_host: 158.227.125.203
+          ansible_user: vgtic
+        U034166:
+          ansible_host: 158.227.125.204
+          ansible_user: vgtic
+        U034167:
+          ansible_host: 158.227.125.205
+          ansible_user: vgtic
+        U034168:
+          ansible_host: 158.227.125.206
+          ansible_user: vgtic
+    informatica-e06:
+      hosts:
+        U210362:
+          ansible_host: 158.227.126.3
+          ansible_user: vgtic
+        U210363:
+          ansible_host: 158.227.126.4
+          ansible_user: vgtic
+        U210364:
+          ansible_host: 158.227.126.5
+          ansible_user: vgtic
+        U210365:
+          ansible_host: 158.227.126.6
+          ansible_user: vgtic
+        U210366:
+          ansible_host: 158.227.126.7
+          ansible_user: vgtic
+        U210368:
+          ansible_host: 158.227.126.8
+          ansible_user: vgtic
+        U210370:
+          ansible_host: 158.227.126.9
+          ansible_user: vgtic
+        U210372:
+          ansible_host: 158.227.126.10
+          ansible_user: vgtic
+        U210373:
+          ansible_host: 158.227.126.11
+          ansible_user: vgtic
+        U210374:
+          ansible_host: 158.227.126.12
+          ansible_user: vgtic
+        U210375:
+          ansible_host: 158.227.126.13
+          ansible_user: vgtic
+        U210376:
+          ansible_host: 158.227.126.14
+          ansible_user: vgtic
+        U210377:
+          ansible_host: 158.227.126.15
+          ansible_user: vgtic
+        U210378:
+          ansible_host: 158.227.126.16
+          ansible_user: vgtic
+        U210379:
+          ansible_host: 158.227.126.17
+          ansible_user: vgtic
+        U210380:
+          ansible_host: 158.227.126.18
+          ansible_user: vgtic
+        U210381:
+          ansible_host: 158.227.126.19
+          ansible_user: vgtic
+        U210382:
+          ansible_host: 158.227.126.20
+          ansible_user: vgtic
+        U210383:
+          ansible_host: 158.227.126.21
+          ansible_user: vgtic
+        U210384:
+          ansible_host: 158.227.126.22
+          ansible_user: vgtic
+        U210385:
+          ansible_host: 158.227.126.23
+          ansible_user: vgtic
+        U210386:
+          ansible_host: 158.227.126.24
+          ansible_user: vgtic
+        U210387:
+          ansible_host: 158.227.126.25
+          ansible_user: vgtic
+        U210388:
+          ansible_host: 158.227.126.26
+          ansible_user: vgtic
+        U210389:
+          ansible_host: 158.227.126.27
+          ansible_user: vgtic
+        U210542:
+          ansible_host: 158.227.124.224
+          ansible_user: vgtic
+        U210555:
+          ansible_host: 158.227.124.225
+          ansible_user: vgtic
+    informatica-e07:
+      hosts:
+        U210585:
+          ansible_host: 158.227.124.226
+          ansible_user: vgtic
+        U210593:
+          ansible_host: 158.227.124.227
+          ansible_user: vgtic
+        U210595:
+          ansible_host: 158.227.125.73
+          ansible_user: vgtic
+        U210600:
+          ansible_host: 158.227.125.74
+          ansible_user: vgtic
+        U210609:
+          ansible_host: 158.227.125.207
+          ansible_user: vgtic
+        U210615:
+          ansible_host: 158.227.125.18
+          ansible_user: vgtic
+        U210628:
+          ansible_host: 158.227.125.19
+          ansible_user: vgtic
+        U210670:
+          ansible_host: 158.227.125.20
+          ansible_user: vgtic
+        U210671:
+          ansible_host: 158.227.125.21
+          ansible_user: vgtic
+        U210677:
+          ansible_host: 158.227.125.34
+          ansible_user: vgtic
+        U210798:
+          ansible_host: 158.227.124.184
+          ansible_user: vgtic
+        U210799:
+          ansible_host: 158.227.125.37
+          ansible_user: vgtic
+        U210800:
+          ansible_host: 158.227.125.38
+          ansible_user: vgtic
+        U210801:
+          ansible_host: 158.227.125.39
+          ansible_user: vgtic
+        U210802:
+          ansible_host: 158.227.125.40
+          ansible_user: vgtic
+        U210803:
+          ansible_host: 158.227.125.41
+          ansible_user: vgtic
+        U210804:
+          ansible_host: 158.227.125.42
+          ansible_user: vgtic
+        U210805:
+          ansible_host: 158.227.125.43
+          ansible_user: vgtic
+        U210806:
+          ansible_host: 158.227.125.45
+          ansible_user: vgtic
+        U210807:
+          ansible_host: 158.227.125.44
+          ansible_user: vgtic
+        U210808:
+          ansible_host: 158.227.125.46
+          ansible_user: vgtic
+        U210809:
+          ansible_host: 158.227.125.47
+          ansible_user: vgtic
+        U210810:
+          ansible_host: 158.227.125.48
+          ansible_user: vgtic
+        U210811:
+          ansible_host: 158.227.125.49
+          ansible_user: vgtic
+        U210812:
+          ansible_host: 158.227.125.50
+          ansible_user: vgtic
+        U210813:
+          ansible_host: 158.227.125.51
+          ansible_user: vgtic
+        U210814:
+          ansible_host: 158.227.125.52
+          ansible_user: vgtic
+        U210815:
+          ansible_host: 158.227.125.53
+          ansible_user: vgtic
+        U210816:
+          ansible_host: 158.227.125.146
+          ansible_user: vgtic
+        U210817:
+          ansible_host: 158.227.125.147
+          ansible_user: vgtic
+        U210818:
+          ansible_host: 158.227.125.148
+          ansible_user: vgtic
+        U210819:
+          ansible_host: 158.227.125.149
+          ansible_user: vgtic
+        U210820:
+          ansible_host: 158.227.125.150
+          ansible_user: vgtic
+        U210821:
+          ansible_host: 158.227.125.160
+          ansible_user: vgtic
+        U210822:
+          ansible_host: 158.227.126.31
+          ansible_user: vgtic
+        U210823:
+          ansible_host: 158.227.126.32
+          ansible_user: vgtic
+    informatica-e08:
+      hosts:
+        U111538:
+          ansible_host: 158.227.124.107
+          ansible_user: vgtic
+        U111539:
+          ansible_host: 158.227.126.92
+          ansible_user: vgtic
+        U111540:
+          ansible_host: 158.227.126.93
+          ansible_user: vgtic
+        U111541:
+          ansible_host: 158.227.126.95
+          ansible_user: vgtic
+        U111542:
+          ansible_host: 158.227.126.94
+          ansible_user: vgtic
+        U111543:
+          ansible_host: 158.227.126.96
+          ansible_user: vgtic
+        U111544:
+          ansible_host: 158.227.126.97
+          ansible_user: vgtic
+        U111545:
+          ansible_host: 158.227.126.98
+          ansible_user: vgtic
+        U112060:
+          ansible_host: 158.227.126.120
+          ansible_user: vgtic
+    informatica-e10:
+      hosts:
+        U106232:
+          ansible_host: 158.227.125.2
+          ansible_user: vgtic
+        U106233:
+          ansible_host: 158.227.125.3
+          ansible_user: vgtic
+        U106234:
+          ansible_host: 158.227.125.4
+          ansible_user: vgtic
+        U106235:
+          ansible_host: 158.227.125.5
+          ansible_user: vgtic
+        U106236:
+          ansible_host: 158.227.125.6
+          ansible_user: vgtic
+        U106237:
+          ansible_host: 158.227.125.7
+          ansible_user: vgtic
+        U106238:
+          ansible_host: 158.227.125.8
+          ansible_user: vgtic
+        U106239:
+          ansible_host: 158.227.125.9
+          ansible_user: vgtic
+        U106240:
+          ansible_host: 158.227.125.10
+          ansible_user: vgtic
+        U106241:
+          ansible_host: 158.227.125.11
+          ansible_user: vgtic
+        U106242:
+          ansible_host: 158.227.125.12
+          ansible_user: vgtic
+        U106243:
+          ansible_host: 158.227.125.13
+          ansible_user: vgtic
+        U106244:
+          ansible_host: 158.227.125.14
+          ansible_user: vgtic
+        U106245:
+          ansible_host: 158.227.125.15
+          ansible_user: vgtic
+        U106247:
+          ansible_host: 158.227.124.154
+          ansible_user: vgtic
+        u026466:
+          ansible_host: 158.227.124.230
+          ansible_user: vgtic
+    informatica-movil:
+      hosts:
+        U020797:
+          ansible_host: 158.227.125.1
+          ansible_user: vgtic
+        U020798:
+          ansible_host: 158.227.125.222
+          ansible_user: vgtic
+        U020799:
+          ansible_host: 158.227.125.223
+          ansible_user: vgtic
+        U020800:
+          ansible_host: 158.227.125.233
+          ansible_user: vgtic
+        U020801:
+          ansible_host: 158.227.125.224
+          ansible_user: vgtic
+        U020802:
+          ansible_host: 158.227.125.225
+          ansible_user: vgtic
+        U020803:
+          ansible_host: 158.227.125.226
+          ansible_user: vgtic
+        U020804:
+          ansible_host: 158.227.125.231
+          ansible_user: vgtic
+        U020805:
+          ansible_host: 158.227.125.227
+          ansible_user: vgtic
+        U020806:
+          ansible_host: 158.227.125.228
+          ansible_user: vgtic
+        U020807:
+          ansible_host: 158.227.125.229
+          ansible_user: vgtic
+        U020808:
+          ansible_host: 158.227.125.230
+          ansible_user: vgtic
+        U020809:
+          ansible_host: 158.227.125.232
+          ansible_user: vgtic
+        U020810:
+          ansible_host: 158.227.125.234
+          ansible_user: vgtic
+        U025215:
+          ansible_host: 158.227.126.36
+          ansible_user: vgtic
+        U025216:
+          ansible_host: 158.227.126.34
+          ansible_user: vgtic
+        U025217:
+          ansible_host: 158.227.126.35
+          ansible_user: vgtic
+        U103194:
+          ansible_host: 158.227.125.236
+          ansible_user: vgtic
+    informatica-proyectores:
+      hosts:
+        U025234:
+          ansible_host: 158.227.125.187
+          ansible_user: vgtic
+        U025235:
+          ansible_host: 158.227.125.188
+          ansible_user: vgtic
+        U025236:
+          ansible_host: 158.227.125.189
+          ansible_user: vgtic
+        U025237:
+          ansible_host: 158.227.125.190
+          ansible_user: vgtic
+        U025238:
+          ansible_host: 158.227.125.191
+          ansible_user: vgtic
+        U025239:
+          ansible_host: 158.227.125.192
+          ansible_user: vgtic
+        U025242:
+          ansible_host: 158.227.124.143
+          ansible_user: vgtic
+    informatica-proyectos:
+      hosts:
+        U008843:
+          ansible_host: 158.227.114.112
+          ansible_user: vgtic
+        U102513:
+          ansible_host: 158.227.126.37
+          ansible_user: vgtic
+        U112860:
+          ansible_host: 158.227.112.104
+          ansible_user: vgtic
+    sc-informatica-17:
+      hosts:
+        U025230:
+          ansible_host: 158.227.125.183
+          ansible_user: vgtic
+        U025231:
+          ansible_host: 158.227.125.184
+          ansible_user: vgtic
+        U025232:
+          ansible_host: 158.227.125.185
+          ansible_user: vgtic
+        U025233:
+          ansible_host: 158.227.125.186
+          ansible_user: vgtic
+    sc-informatica-18:
+      hosts:
+        U111099:
+          ansible_host: 158.227.126.51
+          ansible_user: vgtic
+Facultad de Medicina y Enfermeria:
+  children:
+    aula-bz-medicina-0A1-1:
+      hosts:
+        U109979:
+          ansible_host: 10.227.13.189
+          ansible_user: vgtic
+        U109980:
+          ansible_host: 10.227.13.190
+          ansible_user: vgtic
+        U109981:
+          ansible_host: 10.227.13.191
+          ansible_user: vgtic
+        U109982:
+          ansible_host: 10.227.13.192
+          ansible_user: vgtic
+        U109983:
+          ansible_host: 10.227.13.193
+          ansible_user: vgtic
+        U109984:
+          ansible_host: 10.227.13.194
+          ansible_user: vgtic
+        U109985:
+          ansible_host: 10.227.13.195
+          ansible_user: vgtic
+        U109986:
+          ansible_host: 10.227.13.196
+          ansible_user: vgtic
+        U109987:
+          ansible_host: 10.227.13.197
+          ansible_user: vgtic
+        U109988:
+          ansible_host: 10.227.13.198
+          ansible_user: vgtic
+        U109989:
+          ansible_host: 10.227.13.199
+          ansible_user: vgtic
+    medicina-p5:
+      hosts:
+        U106671:
+          ansible_host: 10.227.13.35
+          ansible_user: vgtic
+        U106672:
+          ansible_host: 10.227.13.36
+          ansible_user: vgtic
+        U106673:
+          ansible_host: 10.227.13.37
+          ansible_user: vgtic
+        U106676:
+          ansible_host: 10.227.13.40
+          ansible_user: vgtic
+        U106679:
+          ansible_host: 10.227.13.43
+          ansible_user: vgtic
+        U106683:
+          ansible_host: 10.227.13.47
+          ansible_user: vgtic
+        U106687:
+          ansible_host: 10.227.13.51
+          ansible_user: vgtic
+        U106688:
+          ansible_host: 10.227.13.52
+          ansible_user: vgtic
+        U106690:
+          ansible_host: 10.227.13.54
+          ansible_user: vgtic
+        U106692:
+          ansible_host: 10.227.13.56
+          ansible_user: vgtic
+        U106693:
+          ansible_host: 10.227.13.57
+          ansible_user: vgtic
+        U106695:
+          ansible_host: 10.227.13.59
+          ansible_user: vgtic
+        U106698:
+          ansible_host: 10.227.13.62
+          ansible_user: vgtic
+        U106700:
+          ansible_host: 10.227.13.64
+          ansible_user: vgtic
+        U106703:
+          ansible_host: 10.227.13.67
+          ansible_user: vgtic
+        U106784:
+          ansible_host: 10.227.13.70
+          ansible_user: vgtic
+        U106788:
+          ansible_host: 10.227.13.74
+          ansible_user: vgtic
+        U106791:
+          ansible_host: 10.227.13.77
+          ansible_user: vgtic
+        U106793:
+          ansible_host: 10.227.13.79
+          ansible_user: vgtic
+        U106794:
+          ansible_host: 10.227.13.80
+          ansible_user: vgtic
+        U106796:
+          ansible_host: 10.227.13.82
+          ansible_user: vgtic
+        U106799:
+          ansible_host: 10.227.13.85
+          ansible_user: vgtic
+        U106801:
+          ansible_host: 10.227.13.87
+          ansible_user: vgtic
+        U106803:
+          ansible_host: 10.227.13.89
+          ansible_user: vgtic
+        U106804:
+          ansible_host: 10.227.13.90
+          ansible_user: vgtic
+Vicegerencia de Campus de Bizkaia:
+  children:
+    biblioteca-campus:
+      hosts:
+        U114269:
+          ansible_host: 10.227.34.150
+          ansible_user: vgtic
+        U114270:
+          ansible_host: 10.227.34.151
+          ansible_user: vgtic
+        U114271:
+          ansible_host: 10.227.34.152
+          ansible_user: vgtic
+        U114272:
+          ansible_host: 10.227.34.153
+          ansible_user: vgtic
+        U114273:
+          ansible_host: 10.227.34.154
+          ansible_user: vgtic
+        U114274:
+          ansible_host: 10.227.34.155
+          ansible_user: vgtic
+        U114275:
+          ansible_host: 10.227.34.156
+          ansible_user: vgtic
+        U114276:
+          ansible_host: 10.227.34.157
+          ansible_user: vgtic
+        U114277:
+          ansible_host: 10.227.34.158
+          ansible_user: vgtic
+        U114278:
+          ansible_host: 10.227.34.159
+          ansible_user: vgtic
+        U114279:
+          ansible_host: 10.227.34.160
+          ansible_user: vgtic
+        U114280:
+          ansible_host: 10.227.34.161
+          ansible_user: vgtic
+        U114281:
+          ansible_host: 10.227.34.162
+          ansible_user: vgtic
+        U114282:
+          ansible_host: 10.227.34.163
+          ansible_user: vgtic
+        U114283:
+          ansible_host: 10.227.34.164
+          ansible_user: vgtic
+        U114284:
+          ansible_host: 10.227.34.165
+          ansible_user: vgtic
+        U114285:
+          ansible_host: 10.227.34.166
+          ansible_user: vgtic
+        U114286:
+          ansible_host: 10.227.34.167
+          ansible_user: vgtic
+        U114287:
+          ansible_host: 10.227.34.168
+          ansible_user: vgtic
+        U114288:
+          ansible_host: 10.227.34.169
+          ansible_user: vgtic
+        U114289:
+          ansible_host: 10.227.34.170
+          ansible_user: vgtic
+        U114290:
+          ansible_host: 10.227.34.171
+          ansible_user: vgtic
+        U114291:
+          ansible_host: 10.227.34.172
+          ansible_user: vgtic
+        U114292:
+          ansible_host: 10.227.34.173
+          ansible_user: vgtic
+        U114293:
+          ansible_host: 10.227.34.174
+          ansible_user: vgtic
+        U114294:
+          ansible_host: 10.227.34.175
+          ansible_user: vgtic
+        U114295:
+          ansible_host: 10.227.34.176
+          ansible_user: vgtic
+        U114296:
+          ansible_host: 10.227.34.177
+          ansible_user: vgtic
+        U114297:
+          ansible_host: 10.227.34.178
+          ansible_user: vgtic
+        U114298:
+          ansible_host: 10.227.34.179
+          ansible_user: vgtic
+Vicegerencia de Campus de Gipuzkoa:
+  children:
+    aulario-3-0:
+      hosts:
+        U113543:
+          ansible_host: 158.227.135.2
+          ansible_user: vgtic
+        U113544:
+          ansible_host: 158.227.135.3
+          ansible_user: vgtic
+        U113545:
+          ansible_host: 158.227.135.4
+          ansible_user: vgtic
+        U113546:
+          ansible_host: 158.227.135.5
+          ansible_user: vgtic
+        U113547:
+          ansible_host: 158.227.135.9
+          ansible_user: vgtic
+        U113548:
+          ansible_host: 158.227.135.10
+          ansible_user: vgtic
+        U113549:
+          ansible_host: 158.227.135.11
+          ansible_user: vgtic
+        U113550:
+          ansible_host: 158.227.135.14
+          ansible_user: vgtic
+        U113551:
+          ansible_host: 158.227.135.17
+          ansible_user: vgtic
+        U113552:
+          ansible_host: 158.227.135.18
+          ansible_user: vgtic
+        U113553:
+          ansible_host: 158.227.135.19
+          ansible_user: vgtic
+        U113554:
+          ansible_host: 158.227.135.21
+          ansible_user: vgtic
+        U113555:
+          ansible_host: 158.227.135.24
+          ansible_user: vgtic
+        U113556:
+          ansible_host: 158.227.135.25
+          ansible_user: vgtic
+        U113557:
+          ansible_host: 158.227.135.26
+          ansible_user: vgtic
+        U113558:
+          ansible_host: 158.227.135.27
+          ansible_user: vgtic
+        U113559:
+          ansible_host: 158.227.135.28
+          ansible_user: vgtic
+        U113560:
+          ansible_host: 158.227.135.29
+          ansible_user: vgtic
+        U113561:
+          ansible_host: 158.227.135.30
+          ansible_user: vgtic
+        U113562:
+          ansible_host: 158.227.135.31
+          ansible_user: vgtic
+        U113563:
+          ansible_host: 158.227.135.33
+          ansible_user: vgtic
+        U113564:
+          ansible_host: 158.227.135.35
+          ansible_user: vgtic
+        U113565:
+          ansible_host: 158.227.135.36
+          ansible_user: vgtic
+        U113566:
+          ansible_host: 158.227.135.37
+          ansible_user: vgtic
+        U113567:
+          ansible_host: 158.227.135.38
+          ansible_user: vgtic
+        U113568:
+          ansible_host: 158.227.135.39
+          ansible_user: vgtic
+        U113569:
+          ansible_host: 158.227.135.40
+          ansible_user: vgtic
+        U113570:
+          ansible_host: 158.227.135.41
+          ansible_user: vgtic
+        U113571:
+          ansible_host: 158.227.135.43
+          ansible_user: vgtic
+        U113572:
+          ansible_host: 158.227.135.44
+          ansible_user: vgtic
+        U113573:
+          ansible_host: 158.227.135.46
+          ansible_user: vgtic
+        U113574:
+          ansible_host: 158.227.135.47
+          ansible_user: vgtic
+        U113575:
+          ansible_host: 158.227.135.48
+          ansible_user: vgtic
+        U113576:
+          ansible_host: 158.227.135.51
+          ansible_user: vgtic
+        U113577:
+          ansible_host: 158.227.135.52
+          ansible_user: vgtic
+        U113578:
+          ansible_host: 158.227.135.53
+          ansible_user: vgtic
+        U113579:
+          ansible_host: 158.227.135.54
+          ansible_user: vgtic
+        U113580:
+          ansible_host: 158.227.135.55
+          ansible_user: vgtic
+        U113581:
+          ansible_host: 158.227.135.56
+          ansible_user: vgtic
+        U113582:
+          ansible_host: 158.227.135.57
+          ansible_user: vgtic
+        U113583:
+          ansible_host: 158.227.135.58
+          ansible_user: vgtic
+        U113584:
+          ansible_host: 158.227.135.59
+          ansible_user: vgtic
+        U113585:
+          ansible_host: 158.227.131.73
+          ansible_user: vgtic
+    aulario-3-1:
+      hosts:
+        U113805:
+          ansible_host: 158.227.116.191
+          ansible_user: vgtic
+        U113806:
+          ansible_host: 158.227.117.51
+          ansible_user: vgtic
+        U113807:
+          ansible_host: 158.227.117.52
+          ansible_user: vgtic
+        U113808:
+          ansible_host: 158.227.117.53
+          ansible_user: vgtic
+        U113809:
+          ansible_host: 158.227.117.54
+          ansible_user: vgtic
+        U113810:
+          ansible_host: 158.227.117.55
+          ansible_user: vgtic
+        U113811:
+          ansible_host: 158.227.117.56
+          ansible_user: vgtic
+        U113812:
+          ansible_host: 158.227.117.57
+          ansible_user: vgtic
+        U113813:
+          ansible_host: 158.227.117.58
+          ansible_user: vgtic
+        U113814:
+          ansible_host: 158.227.117.59
+          ansible_user: vgtic
+        U113815:
+          ansible_host: 158.227.117.60
+          ansible_user: vgtic
+        U113816:
+          ansible_host: 158.227.117.61
+          ansible_user: vgtic
+        U113817:
+          ansible_host: 158.227.117.65
+          ansible_user: vgtic
+        U113818:
+          ansible_host: 158.227.117.66
+          ansible_user: vgtic
+        U113819:
+          ansible_host: 158.227.117.67
+          ansible_user: vgtic
+        U113820:
+          ansible_host: 158.227.117.68
+          ansible_user: vgtic
+        U113821:
+          ansible_host: 158.227.117.69
+          ansible_user: vgtic
+        U113822:
+          ansible_host: 158.227.117.70
+          ansible_user: vgtic
+        U113823:
+          ansible_host: 158.227.117.71
+          ansible_user: vgtic
+        U113824:
+          ansible_host: 158.227.117.72
+          ansible_user: vgtic
+        U113825:
+          ansible_host: 158.227.117.73
+          ansible_user: vgtic
+    aulario-clase:
+      hosts:
+        U231456:
+          ansible_host: 158.227.135.61
+          ansible_user: vgtic
+        U231457:
+          ansible_host: 158.227.135.62
+          ansible_user: vgtic
+        U231458:
+          ansible_host: 158.227.135.63
+          ansible_user: vgtic
+        U231459:
+          ansible_host: 158.227.135.64
+          ansible_user: vgtic
+        U231460:
+          ansible_host: 158.227.135.65
+          ansible_user: vgtic
+        U231461:
+          ansible_host: 158.227.135.66
+          ansible_user: vgtic
+        U231462:
+          ansible_host: 158.227.135.67
+          ansible_user: vgtic
+        U231463:
+          ansible_host: 158.227.135.68
+          ansible_user: vgtic
+        U231465:
+          ansible_host: 158.227.135.69
+          ansible_user: vgtic
+        U231466:
+          ansible_host: 158.227.135.70
+          ansible_user: vgtic
+        U231467:
+          ansible_host: 158.227.135.71
+          ansible_user: vgtic
+        U231468:
+          ansible_host: 158.227.135.72
+          ansible_user: vgtic
+        U231469:
+          ansible_host: 158.227.135.73
+          ansible_user: vgtic
+        U231470:
+          ansible_host: 158.227.135.74
+          ansible_user: vgtic
+        U231471:
+          ansible_host: 158.227.135.75
+          ansible_user: vgtic
+        U231472:
+          ansible_host: 158.227.135.76
+          ansible_user: vgtic
+        U231473:
+          ansible_host: 158.227.135.77
+          ansible_user: vgtic
+        U231474:
+          ansible_host: 158.227.135.78
+          ansible_user: vgtic
+        U231475:
+          ansible_host: 158.227.135.79
+          ansible_user: vgtic
+        U231476:
+          ansible_host: 158.227.135.80
+          ansible_user: vgtic
+        U231477:
+          ansible_host: 158.227.135.81
+          ansible_user: vgtic
+        U231478:
+          ansible_host: 158.227.135.82
+          ansible_user: vgtic
+        U231479:
+          ansible_host: 158.227.135.83
+          ansible_user: vgtic
+        U231480:
+          ansible_host: 158.227.135.84
+          ansible_user: vgtic
+        U231481:
+          ansible_host: 158.227.135.85
+          ansible_user: vgtic
+        U231482:
+          ansible_host: 158.227.135.86
+          ansible_user: vgtic
+        U231483:
+          ansible_host: 158.227.135.89
+          ansible_user: vgtic
+        U231484:
+          ansible_host: 158.227.135.90
+          ansible_user: vgtic
+        U231485:
+          ansible_host: 158.227.135.91
+          ansible_user: vgtic
+        U231486:
+          ansible_host: 158.227.135.92
+          ansible_user: vgtic
+        U231487:
+          ansible_host: 158.227.135.93
+          ansible_user: vgtic
+        U231488:
+          ansible_host: 158.227.135.94
+          ansible_user: vgtic
+Vicegerencia de Tecnologías de la Información y las comunicaciones:
+  children:
+    aula-vc-cidir-las-nieves-cpd:
+      hosts:
+        U030690:
+          ansible_host: 158.227.207.186
+          ansible_user: vgtic
+    rectorado-cpd:
+      hosts:
+        U030688:
+          ansible_host: 10.227.15.10
+          ansible_user: vgtic
+        U210057:
+          ansible_host: 10.227.15.4
+          ansible_user: vgtic
